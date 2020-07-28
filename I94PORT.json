@@ -1,0 +1,3302 @@
+[
+  {
+    "Code": "ALC",
+    "City": "ALCAN",
+    "State": "AK"
+  },
+  {
+    "Code": "ANC",
+    "City": "ANCHORAGE",
+    "State": "AK"
+  },
+  {
+    "Code": "BAR",
+    "City": "BAKER AAF - BAKER ISLAND",
+    "State": "AK"
+  },
+  {
+    "Code": "DAC",
+    "City": "DALTONS CACHE",
+    "State": "AK"
+  },
+  {
+    "Code": "PIZ",
+    "City": "DEW STATION PT LAY DEW",
+    "State": "AK"
+  },
+  {
+    "Code": "DTH",
+    "City": "DUTCH HARBOR",
+    "State": "AK"
+  },
+  {
+    "Code": "EGL",
+    "City": "EAGLE",
+    "State": "AK"
+  },
+  {
+    "Code": "FRB",
+    "City": "FAIRBANKS",
+    "State": "AK"
+  },
+  {
+    "Code": "HOM",
+    "City": "HOMER",
+    "State": "AK"
+  },
+  {
+    "Code": "HYD",
+    "City": "HYDER",
+    "State": "AK"
+  },
+  {
+    "Code": "JUN",
+    "City": "JUNEAU",
+    "State": "AK"
+  },
+  {
+    "Code": "5KE",
+    "City": "KETCHIKAN",
+    "State": "AK"
+  },
+  {
+    "Code": "KET",
+    "City": "KETCHIKAN",
+    "State": "AK"
+  },
+  {
+    "Code": "MOS",
+    "City": "MOSES POINT INTERMEDIATE",
+    "State": "AK"
+  },
+  {
+    "Code": "NIK",
+    "City": "NIKISKI",
+    "State": "AK"
+  },
+  {
+    "Code": "NOM",
+    "City": "NOM",
+    "State": "AK"
+  },
+  {
+    "Code": "PKC",
+    "City": "POKER CREEK",
+    "State": "AK"
+  },
+  {
+    "Code": "ORI",
+    "City": "PORT LIONS SPB",
+    "State": "AK"
+  },
+  {
+    "Code": "SKA",
+    "City": "SKAGWAY",
+    "State": "AK"
+  },
+  {
+    "Code": "SNP",
+    "City": "ST. PAUL ISLAND",
+    "State": "AK"
+  },
+  {
+    "Code": "TKI",
+    "City": "TOKEEN",
+    "State": "AK"
+  },
+  {
+    "Code": "WRA",
+    "City": "WRANGELL",
+    "State": "AK"
+  },
+  {
+    "Code": "HSV",
+    "City": "MADISON COUNTY - HUNTSVILLE",
+    "State": "AL"
+  },
+  {
+    "Code": "MOB",
+    "City": "MOBILE",
+    "State": "AL"
+  },
+  {
+    "Code": "LIA",
+    "City": "LITTLE ROCK",
+    "State": "AR (BPS)"
+  },
+  {
+    "Code": "ROG",
+    "City": "ROGERS ARPT",
+    "State": "AR"
+  },
+  {
+    "Code": "DOU",
+    "City": "DOUGLAS",
+    "State": "AZ"
+  },
+  {
+    "Code": "LUK",
+    "City": "LUKEVILLE",
+    "State": "AZ"
+  },
+  {
+    "Code": "MAP",
+    "City": "MARIPOSA AZ",
+    "State": ""
+  },
+  {
+    "Code": "NAC",
+    "City": "NACO",
+    "State": "AZ"
+  },
+  {
+    "Code": "NOG",
+    "City": "NOGALES",
+    "State": "AZ"
+  },
+  {
+    "Code": "PHO",
+    "City": "PHOENIX",
+    "State": "AZ"
+  },
+  {
+    "Code": "POR",
+    "City": "PORTAL",
+    "State": "AZ"
+  },
+  {
+    "Code": "SLU",
+    "City": "SAN LUIS",
+    "State": "AZ"
+  },
+  {
+    "Code": "SAS",
+    "City": "SASABE",
+    "State": "AZ"
+  },
+  {
+    "Code": "TUC",
+    "City": "TUCSON",
+    "State": "AZ"
+  },
+  {
+    "Code": "YUI",
+    "City": "YUMA",
+    "State": "AZ"
+  },
+  {
+    "Code": "AND",
+    "City": "ANDRADE",
+    "State": "CA"
+  },
+  {
+    "Code": "BUR",
+    "City": "BURBANK",
+    "State": "CA"
+  },
+  {
+    "Code": "CAL",
+    "City": "CALEXICO",
+    "State": "CA"
+  },
+  {
+    "Code": "CAO",
+    "City": "CAMPO",
+    "State": "CA"
+  },
+  {
+    "Code": "FRE",
+    "City": "FRESNO",
+    "State": "CA"
+  },
+  {
+    "Code": "ICP",
+    "City": "IMPERIAL COUNTY",
+    "State": "CA"
+  },
+  {
+    "Code": "LNB",
+    "City": "LONG BEACH",
+    "State": "CA"
+  },
+  {
+    "Code": "LOS",
+    "City": "LOS ANGELES",
+    "State": "CA"
+  },
+  {
+    "Code": "BFL",
+    "City": "MEADOWS FIELD - BAKERSFIELD",
+    "State": "CA"
+  },
+  {
+    "Code": "OAK",
+    "City": "OAKLAND",
+    "State": "CA"
+  },
+  {
+    "Code": "ONT",
+    "City": "ONTARIO",
+    "State": "CA"
+  },
+  {
+    "Code": "OTM",
+    "City": "OTAY MESA",
+    "State": "CA"
+  },
+  {
+    "Code": "BLT",
+    "City": "PACIFIC, HWY. STATION",
+    "State": "CA"
+  },
+  {
+    "Code": "PSP",
+    "City": "PALM SPRINGS",
+    "State": "CA"
+  },
+  {
+    "Code": "SAC",
+    "City": "SACRAMENTO",
+    "State": "CA"
+  },
+  {
+    "Code": "SLS",
+    "City": "SALINAS",
+    "State": "CA (BPS)"
+  },
+  {
+    "Code": "SDP",
+    "City": "SAN DIEGO",
+    "State": "CA"
+  },
+  {
+    "Code": "SFR",
+    "City": "SAN FRANCISCO",
+    "State": "CA"
+  },
+  {
+    "Code": "SNJ",
+    "City": "SAN JOSE",
+    "State": "CA"
+  },
+  {
+    "Code": "SLO",
+    "City": "SAN LUIS OBISPO",
+    "State": "CA"
+  },
+  {
+    "Code": "SLI",
+    "City": "SAN LUIS OBISPO",
+    "State": "CA (BPS)"
+  },
+  {
+    "Code": "SPC",
+    "City": "SAN PEDRO",
+    "State": "CA"
+  },
+  {
+    "Code": "SYS",
+    "City": "SAN YSIDRO",
+    "State": "CA"
+  },
+  {
+    "Code": "SAA",
+    "City": "SANTA ANA",
+    "State": "CA"
+  },
+  {
+    "Code": "STO",
+    "City": "STOCKTON",
+    "State": "CA (BPS)"
+  },
+  {
+    "Code": "TEC",
+    "City": "TECATE",
+    "State": "CA"
+  },
+  {
+    "Code": "TRV",
+    "City": "TRAVIS-AFB",
+    "State": "CA"
+  },
+  {
+    "Code": "APA",
+    "City": "ARAPAHOE COUNTY",
+    "State": "CO"
+  },
+  {
+    "Code": "ASE",
+    "City": "ASPEN, CO #ARPT",
+    "State": ""
+  },
+  {
+    "Code": "COS",
+    "City": "COLORADO SPRINGS",
+    "State": "CO"
+  },
+  {
+    "Code": "DEN",
+    "City": "DENVER",
+    "State": "CO"
+  },
+  {
+    "Code": "DRO",
+    "City": "LA PLATA - DURANGO",
+    "State": "CO"
+  },
+  {
+    "Code": "BDL",
+    "City": "BRADLEY INTERNATIONAL",
+    "State": "CT"
+  },
+  {
+    "Code": "BGC",
+    "City": "BRIDGEPORT",
+    "State": "CT"
+  },
+  {
+    "Code": "GRT",
+    "City": "GROTON",
+    "State": "CT"
+  },
+  {
+    "Code": "HAR",
+    "City": "HARTFORD",
+    "State": "CT"
+  },
+  {
+    "Code": "NWH",
+    "City": "NEW HAVEN",
+    "State": "CT"
+  },
+  {
+    "Code": "NWL",
+    "City": "NEW LONDON",
+    "State": "CT"
+  },
+  {
+    "Code": "TST",
+    "City": "NEWINGTON DATA CENTER TEST",
+    "State": "CT"
+  },
+  {
+    "Code": "WAS",
+    "City": "WASHINGTON DC",
+    "State": ""
+  },
+  {
+    "Code": "DOV",
+    "City": "DOVER AFB",
+    "State": "DE"
+  },
+  {
+    "Code": "DVD",
+    "City": "DOVER-AFB",
+    "State": "DE"
+  },
+  {
+    "Code": "WLL",
+    "City": "WILMINGTON",
+    "State": "DE"
+  },
+  {
+    "Code": "BOC",
+    "City": "BOCAGRANDE",
+    "State": "FL"
+  },
+  {
+    "Code": "SRQ",
+    "City": "BRADENTON - SARASOTA",
+    "State": "FL"
+  },
+  {
+    "Code": "CAN",
+    "City": "CAPE CANAVERAL",
+    "State": "FL"
+  },
+  {
+    "Code": "DAB",
+    "City": "DAYTONA BEACH INTERNATIONAL",
+    "State": "FL"
+  },
+  {
+    "Code": "FRN",
+    "City": "FERNANDINA",
+    "State": "FL"
+  },
+  {
+    "Code": "FTL",
+    "City": "FORT LAUDERDALE",
+    "State": "FL"
+  },
+  {
+    "Code": "FMY",
+    "City": "FORT MYERS",
+    "State": "FL"
+  },
+  {
+    "Code": "FPF",
+    "City": "FORT PIERCE",
+    "State": "FL"
+  },
+  {
+    "Code": "HUR",
+    "City": "HURLBURT FIELD",
+    "State": "FL"
+  },
+  {
+    "Code": "GNV",
+    "City": "J R ALISON MUNI - GAINESVILLE",
+    "State": "FL"
+  },
+  {
+    "Code": "JAC",
+    "City": "JACKSONVILLE",
+    "State": "FL"
+  },
+  {
+    "Code": "KEY",
+    "City": "KEY WEST",
+    "State": "FL"
+  },
+  {
+    "Code": "LEE",
+    "City": "LEESBURG MUNICIPAL AIRPORT",
+    "State": "FL"
+  },
+  {
+    "Code": "MLB",
+    "City": "MELBOURNE",
+    "State": "FL"
+  },
+  {
+    "Code": "MIA",
+    "City": "MIAMI",
+    "State": "FL"
+  },
+  {
+    "Code": "APF",
+    "City": "NAPLES, FL #ARPT",
+    "State": ""
+  },
+  {
+    "Code": "OPF",
+    "City": "OPA LOCKA",
+    "State": "FL"
+  },
+  {
+    "Code": "ORL",
+    "City": "ORLANDO",
+    "State": "FL"
+  },
+  {
+    "Code": "PAN",
+    "City": "PANAMA CITY",
+    "State": "FL"
+  },
+  {
+    "Code": "PEN",
+    "City": "PENSACOLA",
+    "State": "FL"
+  },
+  {
+    "Code": "PCF",
+    "City": "PORT CANAVERAL",
+    "State": "FL"
+  },
+  {
+    "Code": "PEV",
+    "City": "PORT EVERGLADES",
+    "State": "FL"
+  },
+  {
+    "Code": "PSJ",
+    "City": "PORT ST JOE",
+    "State": "FL"
+  },
+  {
+    "Code": "SFB",
+    "City": "SANFORD",
+    "State": "FL"
+  },
+  {
+    "Code": "SGJ",
+    "City": "ST AUGUSTINE ARPT",
+    "State": "FL"
+  },
+  {
+    "Code": "SAU",
+    "City": "ST AUGUSTINE",
+    "State": "FL"
+  },
+  {
+    "Code": "FPR",
+    "City": "ST LUCIE COUNTY",
+    "State": "FL"
+  },
+  {
+    "Code": "SPE",
+    "City": "ST PETERSBURG",
+    "State": "FL"
+  },
+  {
+    "Code": "TAM",
+    "City": "TAMPA",
+    "State": "FL"
+  },
+  {
+    "Code": "WPB",
+    "City": "WEST PALM BEACH",
+    "State": "FL"
+  },
+  {
+    "Code": "ATL",
+    "City": "ATLANTA",
+    "State": "GA"
+  },
+  {
+    "Code": "BRU",
+    "City": "BRUNSWICK",
+    "State": "GA"
+  },
+  {
+    "Code": "AGS",
+    "City": "BUSH FIELD - AUGUSTA",
+    "State": "GA"
+  },
+  {
+    "Code": "SAV",
+    "City": "SAVANNAH",
+    "State": "GA"
+  },
+  {
+    "Code": "AGA",
+    "City": "AGANA",
+    "State": "GU"
+  },
+  {
+    "Code": "HHW",
+    "City": "HONOLULU",
+    "State": "HI"
+  },
+  {
+    "Code": "OGG",
+    "City": "KAHULUI - MAUI",
+    "State": "HI"
+  },
+  {
+    "Code": "KOA",
+    "City": "KEAHOLE-KONA",
+    "State": "HI"
+  },
+  {
+    "Code": "LIH",
+    "City": "LIHUE",
+    "State": "HI"
+  },
+  {
+    "Code": "CID",
+    "City": "CEDAR RAPIDS/IOWA CITY",
+    "State": "IA"
+  },
+  {
+    "Code": "DSM",
+    "City": "DES MOINES",
+    "State": "IA"
+  },
+  {
+    "Code": "BOI",
+    "City": "AIR TERM. (GOWEN FLD) BOISE",
+    "State": "ID"
+  },
+  {
+    "Code": "EPI",
+    "City": "EASTPORT",
+    "State": "ID"
+  },
+  {
+    "Code": "IDA",
+    "City": "FANNING FIELD - IDAHO FALLS",
+    "State": "ID"
+  },
+  {
+    "Code": "PTL",
+    "City": "PORTHILL",
+    "State": "ID"
+  },
+  {
+    "Code": "SPI",
+    "City": "CAPITAL - SPRINGFIELD",
+    "State": "IL"
+  },
+  {
+    "Code": "CHI",
+    "City": "CHICAGO",
+    "State": "IL"
+  },
+  {
+    "Code": "DPA",
+    "City": "DUPAGE COUNTY",
+    "State": "IL"
+  },
+  {
+    "Code": "PIA",
+    "City": "GREATER PEORIA",
+    "State": "IL"
+  },
+  {
+    "Code": "RFD",
+    "City": "GREATER ROCKFORD",
+    "State": "IL"
+  },
+  {
+    "Code": "UGN",
+    "City": "MEMORIAL - WAUKEGAN",
+    "State": "IL"
+  },
+  {
+    "Code": "GAR",
+    "City": "GARY",
+    "State": "IN"
+  },
+  {
+    "Code": "HMM",
+    "City": "HAMMOND",
+    "State": "IN"
+  },
+  {
+    "Code": "INP",
+    "City": "INDIANAPOLIS",
+    "State": "IN"
+  },
+  {
+    "Code": "MRL",
+    "City": "MERRILLVILLE",
+    "State": "IN"
+  },
+  {
+    "Code": "SBN",
+    "City": "SOUTH BEND",
+    "State": "IN"
+  },
+  {
+    "Code": "ICT",
+    "City": "MID-CONTINENT - WITCHITA",
+    "State": "KS"
+  },
+  {
+    "Code": "LEX",
+    "City": "BLUE GRASS - LEXINGTON",
+    "State": "KY"
+  },
+  {
+    "Code": "LOU",
+    "City": "LOUISVILLE",
+    "State": "KY"
+  },
+  {
+    "Code": "BTN",
+    "City": "BATON ROUGE",
+    "State": "LA"
+  },
+  {
+    "Code": "LKC",
+    "City": "LAKE CHARLES",
+    "State": "LA"
+  },
+  {
+    "Code": "LAK",
+    "City": "LAKE CHARLES",
+    "State": "LA (BPS)"
+  },
+  {
+    "Code": "MLU",
+    "City": "MONROE",
+    "State": "LA"
+  },
+  {
+    "Code": "MGC",
+    "City": "MORGAN CITY",
+    "State": "LA"
+  },
+  {
+    "Code": "NOL",
+    "City": "NEW ORLEANS",
+    "State": "LA"
+  },
+  {
+    "Code": "BOS",
+    "City": "BOSTON",
+    "State": "MA"
+  },
+  {
+    "Code": "GLO",
+    "City": "GLOUCESTER",
+    "State": "MA"
+  },
+  {
+    "Code": "BED",
+    "City": "HANSCOM FIELD - BEDFORD",
+    "State": "MA"
+  },
+  {
+    "Code": "LYN",
+    "City": "LYNDEN",
+    "State": "WA"
+  },
+  {
+    "Code": "ADW",
+    "City": "ANDREWS AFB",
+    "State": "MD"
+  },
+  {
+    "Code": "BAL",
+    "City": "BALTIMORE",
+    "State": "MD"
+  },
+  {
+    "Code": "MKG",
+    "City": "MUSKEGON",
+    "State": "MD"
+  },
+  {
+    "Code": "PAX",
+    "City": "PATUXENT RIVER",
+    "State": "MD"
+  },
+  {
+    "Code": "BGM",
+    "City": "BANGOR",
+    "State": "ME"
+  },
+  {
+    "Code": "BOO",
+    "City": "BOOTHBAY HARBOR",
+    "State": "ME"
+  },
+  {
+    "Code": "BWM",
+    "City": "BRIDGEWATER",
+    "State": "ME"
+  },
+  {
+    "Code": "BCK",
+    "City": "BUCKPORT",
+    "State": "ME"
+  },
+  {
+    "Code": "CLS",
+    "City": "CALAIS",
+    "State": "ME"
+  },
+  {
+    "Code": "CRB",
+    "City": "CARIBOU",
+    "State": "ME"
+  },
+  {
+    "Code": "COB",
+    "City": "COBURN GORE",
+    "State": "ME"
+  },
+  {
+    "Code": "EST",
+    "City": "EASTCOURT",
+    "State": "ME"
+  },
+  {
+    "Code": "EPT",
+    "City": "EASTPORT MUNICIPAL",
+    "State": "ME"
+  },
+  {
+    "Code": "EPM",
+    "City": "EASTPORT",
+    "State": "ME"
+  },
+  {
+    "Code": "FOR",
+    "City": "FOREST CITY",
+    "State": "ME"
+  },
+  {
+    "Code": "FTF",
+    "City": "FORT FAIRFIELD",
+    "State": "ME"
+  },
+  {
+    "Code": "FTK",
+    "City": "FORT KENT",
+    "State": "ME"
+  },
+  {
+    "Code": "HML",
+    "City": "HAMIIN",
+    "State": "ME"
+  },
+  {
+    "Code": "HTM",
+    "City": "HOULTON",
+    "State": "ME"
+  },
+  {
+    "Code": "JKM",
+    "City": "JACKMAN",
+    "State": "ME"
+  },
+  {
+    "Code": "KAL",
+    "City": "KALISPEL",
+    "State": "MT"
+  },
+  {
+    "Code": "LIM",
+    "City": "LIMESTONE",
+    "State": "ME"
+  },
+  {
+    "Code": "LUB",
+    "City": "LUBEC",
+    "State": "ME"
+  },
+  {
+    "Code": "MAD",
+    "City": "MADAWASKA",
+    "State": "ME"
+  },
+  {
+    "Code": "POM",
+    "City": "PORTLAND",
+    "State": "ME"
+  },
+  {
+    "Code": "RGM",
+    "City": "RANGELEY",
+    "State": "ME (BPS)"
+  },
+  {
+    "Code": "SBR",
+    "City": "SOUTH BREWER",
+    "State": "ME"
+  },
+  {
+    "Code": "SRL",
+    "City": "ST AURELIE",
+    "State": "ME"
+  },
+  {
+    "Code": "SPA",
+    "City": "ST PAMPILE",
+    "State": "ME"
+  },
+  {
+    "Code": "VNB",
+    "City": "VAN BUREN",
+    "State": "ME"
+  },
+  {
+    "Code": "VCB",
+    "City": "VANCEBORO",
+    "State": "ME"
+  },
+  {
+    "Code": "AGN",
+    "City": "ALGONAC",
+    "State": "MI"
+  },
+  {
+    "Code": "ALP",
+    "City": "ALPENA",
+    "State": "MI"
+  },
+  {
+    "Code": "BCY",
+    "City": "BAY CITY",
+    "State": "MI"
+  },
+  {
+    "Code": "DET",
+    "City": "DETROIT",
+    "State": "MI"
+  },
+  {
+    "Code": "GRP",
+    "City": "GRAND RAPIDS",
+    "State": "MI"
+  },
+  {
+    "Code": "GRO",
+    "City": "GROSSE ISLE",
+    "State": "MI"
+  },
+  {
+    "Code": "ISL",
+    "City": "ISLE ROYALE",
+    "State": "MI"
+  },
+  {
+    "Code": "MRC",
+    "City": "MARINE CITY",
+    "State": "MI"
+  },
+  {
+    "Code": "MRY",
+    "City": "MARYSVILLE",
+    "State": "MI"
+  },
+  {
+    "Code": "PTK",
+    "City": "OAKLAND COUNTY - PONTIAC",
+    "State": "MI"
+  },
+  {
+    "Code": "PHU",
+    "City": "PORT HURON",
+    "State": "MI"
+  },
+  {
+    "Code": "RBT",
+    "City": "ROBERTS LANDING",
+    "State": "MI"
+  },
+  {
+    "Code": "SAG",
+    "City": "SAGINAW",
+    "State": "MI"
+  },
+  {
+    "Code": "SSM",
+    "City": "SAULT STE. MARIE",
+    "State": "MI"
+  },
+  {
+    "Code": "SCL",
+    "City": "ST CLAIR",
+    "State": "MI"
+  },
+  {
+    "Code": "YIP",
+    "City": "WILLOW RUN - YPSILANTI",
+    "State": "MI"
+  },
+  {
+    "Code": "BAU",
+    "City": "BAUDETTE",
+    "State": "MN"
+  },
+  {
+    "Code": "CAR",
+    "City": "CARIBOU MUNICIPAL AIRPORT",
+    "State": "MN"
+  },
+  {
+    "Code": "GTF",
+    "City": "Collapsed into INT",
+    "State": "MN"
+  },
+  {
+    "Code": "INL",
+    "City": "Collapsed into INT",
+    "State": "MN"
+  },
+  {
+    "Code": "CRA",
+    "City": "CRANE LAKE",
+    "State": "MN"
+  },
+  {
+    "Code": "MIC",
+    "City": "CRYSTAL MUNICIPAL AIRPORT",
+    "State": "MN"
+  },
+  {
+    "Code": "DUL",
+    "City": "DULUTH",
+    "State": "MN"
+  },
+  {
+    "Code": "ELY",
+    "City": "ELY",
+    "State": "MN"
+  },
+  {
+    "Code": "GPM",
+    "City": "GRAND PORTAGE",
+    "State": "MN"
+  },
+  {
+    "Code": "SVC",
+    "City": "GRANT COUNTY - SILVER CITY",
+    "State": "MN"
+  },
+  {
+    "Code": "INT",
+    "City": "INT''L FALLS",
+    "State": "MN"
+  },
+  {
+    "Code": "LAN",
+    "City": "LANCASTER",
+    "State": "MN"
+  },
+  {
+    "Code": "MSP",
+    "City": "MINN./ST PAUL",
+    "State": "MN"
+  },
+  {
+    "Code": "LIN",
+    "City": "NORTHERN SVC CENTER",
+    "State": "MN"
+  },
+  {
+    "Code": "NOY",
+    "City": "NOYES",
+    "State": "MN"
+  },
+  {
+    "Code": "PIN",
+    "City": "PINE CREEK",
+    "State": "MN"
+  },
+  {
+    "Code": "48Y",
+    "City": "PINECREEK BORDER ARPT",
+    "State": "MN"
+  },
+  {
+    "Code": "RAN",
+    "City": "RAINER",
+    "State": "MN"
+  },
+  {
+    "Code": "RST",
+    "City": "ROCHESTER",
+    "State": "MN"
+  },
+  {
+    "Code": "ROS",
+    "City": "ROSEAU",
+    "State": "MN"
+  },
+  {
+    "Code": "SPM",
+    "City": "ST PAUL",
+    "State": "MN"
+  },
+  {
+    "Code": "WSB",
+    "City": "WARROAD INTL, SPB",
+    "State": "MN"
+  },
+  {
+    "Code": "WAR",
+    "City": "WARROAD",
+    "State": "MN"
+  },
+  {
+    "Code": "KAN",
+    "City": "KANSAS CITY",
+    "State": "MO"
+  },
+  {
+    "Code": "SGF",
+    "City": "SPRINGFIELD-BRANSON",
+    "State": "MO"
+  },
+  {
+    "Code": "STL",
+    "City": "ST LOUIS",
+    "State": "MO"
+  },
+  {
+    "Code": "WHI",
+    "City": "WHITETAIL",
+    "State": "MT"
+  },
+  {
+    "Code": "WHM",
+    "City": "WILD HORSE",
+    "State": "MT"
+  },
+  {
+    "Code": "GPT",
+    "City": "BILOXI REGIONAL",
+    "State": "MS"
+  },
+  {
+    "Code": "GTR",
+    "City": "GOLDEN TRIANGLE LOWNDES CNTY",
+    "State": "MS"
+  },
+  {
+    "Code": "GUL",
+    "City": "GULFPORT",
+    "State": "MS"
+  },
+  {
+    "Code": "PAS",
+    "City": "PASCAGOULA",
+    "State": "MS"
+  },
+  {
+    "Code": "JAN",
+    "City": "THOMPSON FIELD - JACKSON",
+    "State": "MS"
+  },
+  {
+    "Code": "BIL",
+    "City": "BILLINGS",
+    "State": "MT"
+  },
+  {
+    "Code": "BTM",
+    "City": "BUTTE",
+    "State": "MT"
+  },
+  {
+    "Code": "CHF",
+    "City": "CHIEF MT",
+    "State": "MT"
+  },
+  {
+    "Code": "CTB",
+    "City": "CUT BANK MUNICIPAL",
+    "State": "MT"
+  },
+  {
+    "Code": "CUT",
+    "City": "CUT BANK",
+    "State": "MT"
+  },
+  {
+    "Code": "DLB",
+    "City": "DEL BONITA",
+    "State": "MT"
+  },
+  {
+    "Code": "EUR",
+    "City": "EUREKA",
+    "State": "MT (BPS)"
+  },
+  {
+    "Code": "BZN",
+    "City": "GALLATIN FIELD - BOZEMAN",
+    "State": "MT"
+  },
+  {
+    "Code": "FCA",
+    "City": "GLACIER NATIONAL PARK",
+    "State": "MT"
+  },
+  {
+    "Code": "GGW",
+    "City": "GLASGOW",
+    "State": "MT"
+  },
+  {
+    "Code": "GRE",
+    "City": "GREAT FALLS",
+    "State": "MT"
+  },
+  {
+    "Code": "HVR",
+    "City": "HAVRE",
+    "State": "MT"
+  },
+  {
+    "Code": "HEL",
+    "City": "HELENA",
+    "State": "MT"
+  },
+  {
+    "Code": "LWT",
+    "City": "LEWISTON",
+    "State": "MT"
+  },
+  {
+    "Code": "MGM",
+    "City": "MORGAN",
+    "State": "MT"
+  },
+  {
+    "Code": "OPH",
+    "City": "OPHEIM",
+    "State": "MT"
+  },
+  {
+    "Code": "PIE",
+    "City": "PIEGAN",
+    "State": "MT"
+  },
+  {
+    "Code": "RAY",
+    "City": "RAYMOND",
+    "State": "MT"
+  },
+  {
+    "Code": "ROO",
+    "City": "ROOSVILLE",
+    "State": "MT"
+  },
+  {
+    "Code": "SCO",
+    "City": "SCOBEY",
+    "State": "MT"
+  },
+  {
+    "Code": "SWE",
+    "City": "SWEETGTASS",
+    "State": "MT"
+  },
+  {
+    "Code": "TRL",
+    "City": "TRIAL CREEK",
+    "State": "MT"
+  },
+  {
+    "Code": "TUR",
+    "City": "TURNER",
+    "State": "MT"
+  },
+  {
+    "Code": "WCM",
+    "City": "WILLOW CREEK",
+    "State": "MT"
+  },
+  {
+    "Code": "CLT",
+    "City": "CHARLOTTE",
+    "State": "NC"
+  },
+  {
+    "Code": "FAY",
+    "City": "FAYETTEVILLE",
+    "State": "NC"
+  },
+  {
+    "Code": "MRH",
+    "City": "MOREHEAD CITY",
+    "State": "NC"
+  },
+  {
+    "Code": "FOP",
+    "City": "MORRIS FIELDS AAF",
+    "State": "NC"
+  },
+  {
+    "Code": "GSO",
+    "City": "PIEDMONT TRIAD INTL AIRPORT",
+    "State": "NC"
+  },
+  {
+    "Code": "RDU",
+    "City": "RALEIGH/DURHAM",
+    "State": "NC"
+  },
+  {
+    "Code": "SSC",
+    "City": "SHAW AFB - SUMTER",
+    "State": "NC"
+  },
+  {
+    "Code": "WIL",
+    "City": "WILMINGTON",
+    "State": "NC"
+  },
+  {
+    "Code": "AMB",
+    "City": "AMBROSE",
+    "State": "ND"
+  },
+  {
+    "Code": "ANT",
+    "City": "ANTLER",
+    "State": "ND"
+  },
+  {
+    "Code": "CRY",
+    "City": "CARBURY",
+    "State": "ND"
+  },
+  {
+    "Code": "DNS",
+    "City": "DUNSEITH",
+    "State": "ND"
+  },
+  {
+    "Code": "FAR",
+    "City": "FARGO",
+    "State": "ND"
+  },
+  {
+    "Code": "FRT",
+    "City": "FORTUNA",
+    "State": "ND"
+  },
+  {
+    "Code": "GRF",
+    "City": "GRAND FORKS",
+    "State": "ND"
+  },
+  {
+    "Code": "HNN",
+    "City": "HANNAH",
+    "State": "ND"
+  },
+  {
+    "Code": "HNS",
+    "City": "HANSBORO",
+    "State": "ND"
+  },
+  {
+    "Code": "MAI",
+    "City": "MAIDA",
+    "State": "ND"
+  },
+  {
+    "Code": "MND",
+    "City": "MINOT",
+    "State": "ND"
+  },
+  {
+    "Code": "NEC",
+    "City": "NECHE",
+    "State": "ND"
+  },
+  {
+    "Code": "NOO",
+    "City": "NOONAN",
+    "State": "ND"
+  },
+  {
+    "Code": "NRG",
+    "City": "NORTHGATE",
+    "State": "ND"
+  },
+  {
+    "Code": "PEM",
+    "City": "PEMBINA",
+    "State": "ND"
+  },
+  {
+    "Code": "SAR",
+    "City": "SARLES",
+    "State": "ND"
+  },
+  {
+    "Code": "SHR",
+    "City": "SHERWOOD",
+    "State": "ND"
+  },
+  {
+    "Code": "SJO",
+    "City": "ST JOHN",
+    "State": "ND"
+  },
+  {
+    "Code": "WAL",
+    "City": "WALHALLA",
+    "State": "ND"
+  },
+  {
+    "Code": "WHO",
+    "City": "WESTHOPE",
+    "State": "ND"
+  },
+  {
+    "Code": "WND",
+    "City": "WILLISTON",
+    "State": "ND"
+  },
+  {
+    "Code": "OMA",
+    "City": "OMAHA",
+    "State": "NE"
+  },
+  {
+    "Code": "LEB",
+    "City": "LEBANON",
+    "State": "NH"
+  },
+  {
+    "Code": "MHT",
+    "City": "MANCHESTER",
+    "State": "NH"
+  },
+  {
+    "Code": "PNH",
+    "City": "PITTSBURG",
+    "State": "NH"
+  },
+  {
+    "Code": "PSM",
+    "City": "PORTSMOUTH",
+    "State": "NH"
+  },
+  {
+    "Code": "BYO",
+    "City": "BAYONNE",
+    "State": "NJ"
+  },
+  {
+    "Code": "CNJ",
+    "City": "CAMDEN",
+    "State": "NJ"
+  },
+  {
+    "Code": "HOB",
+    "City": "HOBOKEN",
+    "State": "NJ"
+  },
+  {
+    "Code": "JER",
+    "City": "JERSEY CITY",
+    "State": "NJ"
+  },
+  {
+    "Code": "WRI",
+    "City": "MC GUIRE AFB - WRIGHTSOWN",
+    "State": "NJ"
+  },
+  {
+    "Code": "MMU",
+    "City": "MORRISTOWN",
+    "State": "NJ"
+  },
+  {
+    "Code": "NEW",
+    "City": "NEWARK/TETERBORO",
+    "State": "NJ"
+  },
+  {
+    "Code": "PER",
+    "City": "PERTH AMBOY",
+    "State": "NJ"
+  },
+  {
+    "Code": "ACY",
+    "City": "POMONA FIELD - ATLANTIC CITY",
+    "State": "NJ"
+  },
+  {
+    "Code": "ALA",
+    "City": "ALAMAGORDO",
+    "State": "NM (BPS)"
+  },
+  {
+    "Code": "ABQ",
+    "City": "ALBUQUERQUE",
+    "State": "NM"
+  },
+  {
+    "Code": "ANP",
+    "City": "ANTELOPE WELLS",
+    "State": "NM"
+  },
+  {
+    "Code": "CRL",
+    "City": "CARLSBAD",
+    "State": "NM"
+  },
+  {
+    "Code": "COL",
+    "City": "COLUMBUS",
+    "State": "NM"
+  },
+  {
+    "Code": "CDD",
+    "City": "CRANE LAKE - ST. LOUIS CNTY",
+    "State": "NM"
+  },
+  {
+    "Code": "DNM",
+    "City": "DEMING",
+    "State": "NM (BPS)"
+  },
+  {
+    "Code": "LAS",
+    "City": "LAS CRUCES",
+    "State": "NM"
+  },
+  {
+    "Code": "LOB",
+    "City": "LORDSBURG",
+    "State": "NM (BPS)"
+  },
+  {
+    "Code": "RUI",
+    "City": "RUIDOSO",
+    "State": "NM"
+  },
+  {
+    "Code": "STR",
+    "City": "SANTA TERESA",
+    "State": "NM"
+  },
+  {
+    "Code": "RNO",
+    "City": "CANNON INTL - RENO/TAHOE",
+    "State": "NV"
+  },
+  {
+    "Code": "FLX",
+    "City": "FALLON MUNICIPAL AIRPORT",
+    "State": "NV"
+  },
+  {
+    "Code": "LVG",
+    "City": "LAS VEGAS",
+    "State": "NV"
+  },
+  {
+    "Code": "REN",
+    "City": "RENO",
+    "State": "NV"
+  },
+  {
+    "Code": "ALB",
+    "City": "ALBANY",
+    "State": "NY"
+  },
+  {
+    "Code": "AXB",
+    "City": "ALEXANDRIA BAY",
+    "State": "NY"
+  },
+  {
+    "Code": "BUF",
+    "City": "BUFFALO",
+    "State": "NY"
+  },
+  {
+    "Code": "CNH",
+    "City": "CANNON CORNERS",
+    "State": "NY"
+  },
+  {
+    "Code": "CAP",
+    "City": "CAPE VINCENT",
+    "State": "NY"
+  },
+  {
+    "Code": "CHM",
+    "City": "CHAMPLAIN",
+    "State": "NY"
+  },
+  {
+    "Code": "CHT",
+    "City": "CHATEAUGAY",
+    "State": "NY"
+  },
+  {
+    "Code": "CLA",
+    "City": "CLAYTON",
+    "State": "NY"
+  },
+  {
+    "Code": "FTC",
+    "City": "FORT COVINGTON",
+    "State": "NY"
+  },
+  {
+    "Code": "LAG",
+    "City": "LA GUARDIA",
+    "State": "NY"
+  },
+  {
+    "Code": "LEW",
+    "City": "LEWISTON",
+    "State": "NY"
+  },
+  {
+    "Code": "MAS",
+    "City": "MASSENA",
+    "State": "NY"
+  },
+  {
+    "Code": "MAG",
+    "City": "MCGUIRE AFB",
+    "State": "NY"
+  },
+  {
+    "Code": "MOO",
+    "City": "MOORES",
+    "State": "NY"
+  },
+  {
+    "Code": "MRR",
+    "City": "MORRISTOWN",
+    "State": "NY"
+  },
+  {
+    "Code": "NYC",
+    "City": "NEW YORK",
+    "State": "NY"
+  },
+  {
+    "Code": "NIA",
+    "City": "NIAGARA FALLS",
+    "State": "NY"
+  },
+  {
+    "Code": "OGD",
+    "City": "OGDENSBURG",
+    "State": "NY"
+  },
+  {
+    "Code": "OSW",
+    "City": "OSWEGO",
+    "State": "NY"
+  },
+  {
+    "Code": "ELM",
+    "City": "REGIONAL ARPT - HORSEHEAD",
+    "State": "NY"
+  },
+  {
+    "Code": "ROC",
+    "City": "ROCHESTER",
+    "State": "NY"
+  },
+  {
+    "Code": "ROU",
+    "City": "ROUSES POINT",
+    "State": "NY"
+  },
+  {
+    "Code": "SWF",
+    "City": "STEWART - ORANGE CNTY",
+    "State": "NY"
+  },
+  {
+    "Code": "SYR",
+    "City": "SYRACUSE",
+    "State": "NY"
+  },
+  {
+    "Code": "THO",
+    "City": "THOUSAND ISLAND BRIDGE",
+    "State": "NY"
+  },
+  {
+    "Code": "TRO",
+    "City": "TROUT RIVER",
+    "State": "NY"
+  },
+  {
+    "Code": "WAT",
+    "City": "WATERTOWN",
+    "State": "NY"
+  },
+  {
+    "Code": "HPN",
+    "City": "WESTCHESTER - WHITE PLAINS",
+    "State": "NY"
+  },
+  {
+    "Code": "WRB",
+    "City": "WHIRLPOOL BRIDGE",
+    "State": "NY"
+  },
+  {
+    "Code": "YOU",
+    "City": "YOUNGSTOWN",
+    "State": "NY"
+  },
+  {
+    "Code": "AKR",
+    "City": "AKRON",
+    "State": "OH"
+  },
+  {
+    "Code": "ATB",
+    "City": "ASHTABULA",
+    "State": "OH"
+  },
+  {
+    "Code": "CIN",
+    "City": "CINCINNATI",
+    "State": "OH"
+  },
+  {
+    "Code": "CLE",
+    "City": "CLEVELAND",
+    "State": "OH"
+  },
+  {
+    "Code": "CLM",
+    "City": "COLUMBUS",
+    "State": "OH"
+  },
+  {
+    "Code": "LOR",
+    "City": "LORAIN",
+    "State": "OH"
+  },
+  {
+    "Code": "MBO",
+    "City": "MARBLE HEADS",
+    "State": "OH"
+  },
+  {
+    "Code": "SDY",
+    "City": "SANDUSKY",
+    "State": "OH"
+  },
+  {
+    "Code": "TOL",
+    "City": "TOLEDO",
+    "State": "OH"
+  },
+  {
+    "Code": "OKC",
+    "City": "OKLAHOMA CITY",
+    "State": "OK"
+  },
+  {
+    "Code": "TUL",
+    "City": "TULSA",
+    "State": "OK"
+  },
+  {
+    "Code": "AST",
+    "City": "ASTORIA",
+    "State": "OR"
+  },
+  {
+    "Code": "COO",
+    "City": "COOS BAY",
+    "State": "OR"
+  },
+  {
+    "Code": "HIO",
+    "City": "HILLSBORO",
+    "State": "OR"
+  },
+  {
+    "Code": "MED",
+    "City": "MEDFORD",
+    "State": "OR"
+  },
+  {
+    "Code": "NPT",
+    "City": "NEWPORT",
+    "State": "OR"
+  },
+  {
+    "Code": "POO",
+    "City": "PORTLAND",
+    "State": "OR"
+  },
+  {
+    "Code": "PUT",
+    "City": "PUT-IN-BAY",
+    "State": "OH"
+  },
+  {
+    "Code": "RDM",
+    "City": "ROBERTS FIELDS - REDMOND",
+    "State": "OR"
+  },
+  {
+    "Code": "ERI",
+    "City": "ERIE",
+    "State": "PA"
+  },
+  {
+    "Code": "MDT",
+    "City": "HARRISBURG",
+    "State": "PA"
+  },
+  {
+    "Code": "HSB",
+    "City": "HARRISONBURG",
+    "State": "PA"
+  },
+  {
+    "Code": "PHI",
+    "City": "PHILADELPHIA",
+    "State": "PA"
+  },
+  {
+    "Code": "PIT",
+    "City": "PITTSBURG",
+    "State": "PA"
+  },
+  {
+    "Code": "AGU",
+    "City": "AGUADILLA",
+    "State": "PR"
+  },
+  {
+    "Code": "BQN",
+    "City": "BORINQUEN - AGUADILLO",
+    "State": "PR"
+  },
+  {
+    "Code": "JCP",
+    "City": "CULEBRA - BENJAMIN RIVERA",
+    "State": "PR"
+  },
+  {
+    "Code": "ENS",
+    "City": "ENSENADA",
+    "State": "PR"
+  },
+  {
+    "Code": "FAJ",
+    "City": "FAJARDO",
+    "State": "PR"
+  },
+  {
+    "Code": "HUM",
+    "City": "HUMACAO",
+    "State": "PR"
+  },
+  {
+    "Code": "JOB",
+    "City": "JOBOS",
+    "State": "PR"
+  },
+  {
+    "Code": "MAY",
+    "City": "MAYAGUEZ",
+    "State": "PR"
+  },
+  {
+    "Code": "PON",
+    "City": "PONCE",
+    "State": "PR"
+  },
+  {
+    "Code": "PSE",
+    "City": "PONCE-MERCEDITA",
+    "State": "PR"
+  },
+  {
+    "Code": "SAJ",
+    "City": "SAN JUAN",
+    "State": "PR"
+  },
+  {
+    "Code": "VQS",
+    "City": "VIEQUES-ARPT",
+    "State": "PR"
+  },
+  {
+    "Code": "PRO",
+    "City": "PROVIDENCE",
+    "State": "RI"
+  },
+  {
+    "Code": "PVD",
+    "City": "THEODORE FRANCIS - WARWICK",
+    "State": "RI"
+  },
+  {
+    "Code": "CHL",
+    "City": "CHARLESTON",
+    "State": "SC"
+  },
+  {
+    "Code": "CAE",
+    "City": "COLUMBIA, SC #ARPT",
+    "State": ""
+  },
+  {
+    "Code": "GEO",
+    "City": "GEORGETOWN",
+    "State": "SC"
+  },
+  {
+    "Code": "GSP",
+    "City": "GREENVILLE",
+    "State": "SC"
+  },
+  {
+    "Code": "GRR",
+    "City": "GREER",
+    "State": "SC"
+  },
+  {
+    "Code": "MYR",
+    "City": "MYRTLE BEACH",
+    "State": "SC"
+  },
+  {
+    "Code": "SPF",
+    "City": "BLACK HILLS, SPEARFISH",
+    "State": "SD"
+  },
+  {
+    "Code": "HON",
+    "City": "HOWES REGIONAL ARPT - HURON",
+    "State": "SD"
+  },
+  {
+    "Code": "SAI",
+    "City": "SAIPAN, SPN",
+    "State": ""
+  },
+  {
+    "Code": "TYS",
+    "City": "MC GHEE TYSON - ALCOA",
+    "State": "TN"
+  },
+  {
+    "Code": "MEM",
+    "City": "MEMPHIS",
+    "State": "TN"
+  },
+  {
+    "Code": "NSV",
+    "City": "NASHVILLE",
+    "State": "TN"
+  },
+  {
+    "Code": "TRI",
+    "City": "TRI CITY ARPT",
+    "State": "TN"
+  },
+  {
+    "Code": "ADS",
+    "City": "ADDISON AIRPORT- ADDISON",
+    "State": "TX"
+  },
+  {
+    "Code": "ADT",
+    "City": "AMISTAD DAM",
+    "State": "TX"
+  },
+  {
+    "Code": "ANZ",
+    "City": "ANZALDUAS",
+    "State": "TX"
+  },
+  {
+    "Code": "AUS",
+    "City": "AUSTIN",
+    "State": "TX"
+  },
+  {
+    "Code": "BEA",
+    "City": "BEAUMONT",
+    "State": "TX"
+  },
+  {
+    "Code": "BBP",
+    "City": "BIG BEND PARK",
+    "State": "TX (BPS)"
+  },
+  {
+    "Code": "SCC",
+    "City": "BP SPEC COORD. CTR",
+    "State": "TX"
+  },
+  {
+    "Code": "BTC",
+    "City": "BP TACTICAL UNIT",
+    "State": "TX"
+  },
+  {
+    "Code": "BOA",
+    "City": "BRIDGE OF AMERICAS",
+    "State": "TX"
+  },
+  {
+    "Code": "BRO",
+    "City": "BROWNSVILLE",
+    "State": "TX"
+  },
+  {
+    "Code": "CRP",
+    "City": "CORPUS CHRISTI",
+    "State": "TX"
+  },
+  {
+    "Code": "DAL",
+    "City": "DALLAS",
+    "State": "TX"
+  },
+  {
+    "Code": "DLR",
+    "City": "DEL RIO",
+    "State": "TX"
+  },
+  {
+    "Code": "DNA",
+    "City": "DONNA",
+    "State": "TX"
+  },
+  {
+    "Code": "EGP",
+    "City": "EAGLE PASS",
+    "State": "TX"
+  },
+  {
+    "Code": "ELP",
+    "City": "EL PASO",
+    "State": "TX"
+  },
+  {
+    "Code": "FAB",
+    "City": "FABENS",
+    "State": "TX"
+  },
+  {
+    "Code": "FAL",
+    "City": "FALCON HEIGHTS",
+    "State": "TX"
+  },
+  {
+    "Code": "FTH",
+    "City": "FORT HANCOCK",
+    "State": "TX"
+  },
+  {
+    "Code": "AFW",
+    "City": "FORT WORTH ALLIANCE",
+    "State": "TX"
+  },
+  {
+    "Code": "FPT",
+    "City": "FREEPORT",
+    "State": "TX"
+  },
+  {
+    "Code": "GAL",
+    "City": "GALVESTON",
+    "State": "TX"
+  },
+  {
+    "Code": "HLG",
+    "City": "HARLINGEN",
+    "State": "TX"
+  },
+  {
+    "Code": "HID",
+    "City": "HIDALGO",
+    "State": "TX"
+  },
+  {
+    "Code": "HOU",
+    "City": "HOUSTON",
+    "State": "TX"
+  },
+  {
+    "Code": "SGR",
+    "City": "HULL FIELD, SUGAR LAND ARPT",
+    "State": "TX"
+  },
+  {
+    "Code": "LLB",
+    "City": "JUAREZ-LINCOLN BRIDGE",
+    "State": "TX"
+  },
+  {
+    "Code": "LCB",
+    "City": "LAREDO COLUMBIA BRIDGE",
+    "State": "TX"
+  },
+  {
+    "Code": "LRN",
+    "City": "LAREDO NORTH",
+    "State": "TX"
+  },
+  {
+    "Code": "LAR",
+    "City": "LAREDO",
+    "State": "TX"
+  },
+  {
+    "Code": "LSE",
+    "City": "LOS EBANOS",
+    "State": "TX"
+  },
+  {
+    "Code": "IND",
+    "City": "LOS INDIOS",
+    "State": "TX"
+  },
+  {
+    "Code": "LOI",
+    "City": "LOS INDIOS",
+    "State": "TX"
+  },
+  {
+    "Code": "MRS",
+    "City": "MARFA",
+    "State": "TX (BPS)"
+  },
+  {
+    "Code": "MCA",
+    "City": "MCALLEN",
+    "State": "TX"
+  },
+  {
+    "Code": "MAF",
+    "City": "ODESSA REGIONAL",
+    "State": "TX"
+  },
+  {
+    "Code": "PDN",
+    "City": "PASO DEL NORTE,TX",
+    "State": ""
+  },
+  {
+    "Code": "PBB",
+    "City": "PEACE BRIDGE",
+    "State": "NY"
+  },
+  {
+    "Code": "PHR",
+    "City": "PHARR",
+    "State": "TX"
+  },
+  {
+    "Code": "PAR",
+    "City": "PORT ARTHUR",
+    "State": "TX"
+  },
+  {
+    "Code": "ISB",
+    "City": "PORT ISABEL",
+    "State": "TX"
+  },
+  {
+    "Code": "POE",
+    "City": "PORT OF EL PASO",
+    "State": "TX"
+  },
+  {
+    "Code": "PRE",
+    "City": "PRESIDIO",
+    "State": "TX"
+  },
+  {
+    "Code": "PGR",
+    "City": "PROGRESO",
+    "State": "TX"
+  },
+  {
+    "Code": "RIO",
+    "City": "RIO GRANDE CITY",
+    "State": "TX"
+  },
+  {
+    "Code": "ROM",
+    "City": "ROMA",
+    "State": "TX"
+  },
+  {
+    "Code": "SNA",
+    "City": "SAN ANTONIO",
+    "State": "TX"
+  },
+  {
+    "Code": "SNN",
+    "City": "SANDERSON",
+    "State": "TX"
+  },
+  {
+    "Code": "VIB",
+    "City": "VETERAN INTL BRIDGE",
+    "State": "TX"
+  },
+  {
+    "Code": "YSL",
+    "City": "YSLETA",
+    "State": "TX"
+  },
+  {
+    "Code": "CHA",
+    "City": "CHARLOTTE AMALIE",
+    "State": "VI"
+  },
+  {
+    "Code": "CHR",
+    "City": "CHRISTIANSTED",
+    "State": "VI"
+  },
+  {
+    "Code": "CRU",
+    "City": "CRUZ BAY, ST JOHN",
+    "State": "VI"
+  },
+  {
+    "Code": "FRK",
+    "City": "FREDERIKSTED",
+    "State": "VI"
+  },
+  {
+    "Code": "STT",
+    "City": "ST THOMAS",
+    "State": "VI"
+  },
+  {
+    "Code": "LGU",
+    "City": "CACHE AIRPORT - LOGAN",
+    "State": "UT"
+  },
+  {
+    "Code": "SLC",
+    "City": "SALT LAKE CITY",
+    "State": "UT"
+  },
+  {
+    "Code": "CHO",
+    "City": "ALBEMARLE CHARLOTTESVILLE",
+    "State": "VA"
+  },
+  {
+    "Code": "DAA",
+    "City": "DAVISON AAF - FAIRFAX CNTY",
+    "State": "VA"
+  },
+  {
+    "Code": "HOP",
+    "City": "HOPEWELL",
+    "State": "VA"
+  },
+  {
+    "Code": "HEF",
+    "City": "MANASSAS, VA #ARPT",
+    "State": ""
+  },
+  {
+    "Code": "NWN",
+    "City": "NEWPORT",
+    "State": "VA"
+  },
+  {
+    "Code": "NOR",
+    "City": "NORFOLK",
+    "State": "VA"
+  },
+  {
+    "Code": "RCM",
+    "City": "RICHMOND",
+    "State": "VA"
+  },
+  {
+    "Code": "ABS",
+    "City": "ALBURG SPRINGS",
+    "State": "VT"
+  },
+  {
+    "Code": "ABG",
+    "City": "ALBURG",
+    "State": "VT"
+  },
+  {
+    "Code": "BEB",
+    "City": "BEEBE PLAIN",
+    "State": "VT"
+  },
+  {
+    "Code": "BEE",
+    "City": "BEECHER FALLS",
+    "State": "VT"
+  },
+  {
+    "Code": "BRG",
+    "City": "BURLINGTON",
+    "State": "VT"
+  },
+  {
+    "Code": "CNA",
+    "City": "CANAAN",
+    "State": "VT"
+  },
+  {
+    "Code": "DER",
+    "City": "DERBY LINE, VT (I-91)",
+    "State": ""
+  },
+  {
+    "Code": "DLV",
+    "City": "DERBY LINE, VT (RT. 5)",
+    "State": ""
+  },
+  {
+    "Code": "ERC",
+    "City": "EAST RICHFORD",
+    "State": "VT"
+  },
+  {
+    "Code": "HIG",
+    "City": "HIGHGATE SPRINGS",
+    "State": "VT"
+  },
+  {
+    "Code": "MOR",
+    "City": "MORSES LINE",
+    "State": "VT"
+  },
+  {
+    "Code": "NPV",
+    "City": "NEWPORT",
+    "State": "VT"
+  },
+  {
+    "Code": "NRT",
+    "City": "NORTH TROY",
+    "State": "VT"
+  },
+  {
+    "Code": "NRN",
+    "City": "NORTON",
+    "State": "VT"
+  },
+  {
+    "Code": "PIV",
+    "City": "PINNACLE ROAD",
+    "State": "VT"
+  },
+  {
+    "Code": "RIF",
+    "City": "RICHFORT",
+    "State": "VT"
+  },
+  {
+    "Code": "STA",
+    "City": "ST ALBANS",
+    "State": "VT"
+  },
+  {
+    "Code": "SWB",
+    "City": "SWANTON, VT (BP - SECTOR HQ)",
+    "State": ""
+  },
+  {
+    "Code": "WBE",
+    "City": "WEST BERKSHIRE",
+    "State": "VT"
+  },
+  {
+    "Code": "ABE",
+    "City": "ABERDEEN",
+    "State": "WA"
+  },
+  {
+    "Code": "ANA",
+    "City": "ANACORTES",
+    "State": "WA"
+  },
+  {
+    "Code": "BEL",
+    "City": "BELLINGHAM",
+    "State": "WA"
+  },
+  {
+    "Code": "BLI",
+    "City": "BELLINGHAM, WASHINGTON #INTL",
+    "State": ""
+  },
+  {
+    "Code": "BLA",
+    "City": "BLAINE",
+    "State": "WA"
+  },
+  {
+    "Code": "BWA",
+    "City": "BOUNDARY",
+    "State": "WA"
+  },
+  {
+    "Code": "CUR",
+    "City": "CURLEW",
+    "State": "WA (BPS)"
+  },
+  {
+    "Code": "DVL",
+    "City": "DANVILLE",
+    "State": "WA"
+  },
+  {
+    "Code": "EVE",
+    "City": "EVERETT",
+    "State": "WA"
+  },
+  {
+    "Code": "FER",
+    "City": "FERRY",
+    "State": "WA"
+  },
+  {
+    "Code": "FRI",
+    "City": "FRIDAY HARBOR",
+    "State": "WA"
+  },
+  {
+    "Code": "FWA",
+    "City": "FRONTIER",
+    "State": "WA"
+  },
+  {
+    "Code": "KLM",
+    "City": "KALAMA",
+    "State": "WA"
+  },
+  {
+    "Code": "LAU",
+    "City": "LAURIER",
+    "State": "WA"
+  },
+  {
+    "Code": "LON",
+    "City": "LONGVIEW",
+    "State": "WA"
+  },
+  {
+    "Code": "MET",
+    "City": "METALINE FALLS",
+    "State": "WA"
+  },
+  {
+    "Code": "MWH",
+    "City": "MOSES LAKE GRANT COUNTY ARPT",
+    "State": "WA"
+  },
+  {
+    "Code": "NEA",
+    "City": "NEAH BAY",
+    "State": "WA"
+  },
+  {
+    "Code": "NIG",
+    "City": "NIGHTHAWK",
+    "State": "WA"
+  },
+  {
+    "Code": "OLY",
+    "City": "OLYMPIA",
+    "State": "WA"
+  },
+  {
+    "Code": "ORO",
+    "City": "OROVILLE",
+    "State": "WA"
+  },
+  {
+    "Code": "PWB",
+    "City": "PASCO",
+    "State": "WA"
+  },
+  {
+    "Code": "PIR",
+    "City": "POINT ROBERTS",
+    "State": "WA"
+  },
+  {
+    "Code": "PNG",
+    "City": "PORT ANGELES",
+    "State": "WA"
+  },
+  {
+    "Code": "PTO",
+    "City": "PORT TOWNSEND",
+    "State": "WA"
+  },
+  {
+    "Code": "SEA",
+    "City": "SEATTLE",
+    "State": "WA"
+  },
+  {
+    "Code": "SPO",
+    "City": "SPOKANE",
+    "State": "WA"
+  },
+  {
+    "Code": "SUM",
+    "City": "SUMAS",
+    "State": "WA"
+  },
+  {
+    "Code": "TAC",
+    "City": "TACOMA",
+    "State": "WA"
+  },
+  {
+    "Code": "PSC",
+    "City": "TRI-CITIES - PASCO",
+    "State": "WA"
+  },
+  {
+    "Code": "VAN",
+    "City": "VANCOUVER",
+    "State": "WA"
+  },
+  {
+    "Code": "AGM",
+    "City": "ALGOMA",
+    "State": "WI"
+  },
+  {
+    "Code": "BAY",
+    "City": "BAYFIELD",
+    "State": "WI"
+  },
+  {
+    "Code": "GRB",
+    "City": "GREEN BAY",
+    "State": "WI"
+  },
+  {
+    "Code": "MNW",
+    "City": "MANITOWOC",
+    "State": "WI"
+  },
+  {
+    "Code": "MIL",
+    "City": "MILWAUKEE",
+    "State": "WI"
+  },
+  {
+    "Code": "MSN",
+    "City": "TRUAX FIELD - DANE COUNTY",
+    "State": "WI"
+  },
+  {
+    "Code": "CHS",
+    "City": "CHARLESTON",
+    "State": "WV"
+  },
+  {
+    "Code": "CLK",
+    "City": "CLARKSBURG",
+    "State": "WV"
+  },
+  {
+    "Code": "BLF",
+    "City": "MERCER COUNTY",
+    "State": "WV"
+  },
+  {
+    "Code": "CSP",
+    "City": "CASPER",
+    "State": "WY"
+  },
+  {
+    "Code": "XXX",
+    "City": "NOT REPORTED/UNKNOWN",
+    "State": ""
+  },
+  {
+    "Code": 888,
+    "City": "UNIDENTIFED AIR / SEAPORT",
+    "State": ""
+  },
+  {
+    "Code": "UNK",
+    "City": "UNKNOWN POE",
+    "State": ""
+  },
+  {
+    "Code": "CLG",
+    "City": "CALGARY, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "EDA",
+    "City": "EDMONTON, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "YHC",
+    "City": "HAKAI PASS, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "HAL",
+    "City": "Halifax, NS, Canada",
+    "State": ""
+  },
+  {
+    "Code": "MON",
+    "City": "MONTREAL, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "OTT",
+    "City": "OTTAWA, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "YXE",
+    "City": "SASKATOON, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "TOR",
+    "City": "TORONTO, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "VCV",
+    "City": "VANCOUVER, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "VIC",
+    "City": "VICTORIA, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "WIN",
+    "City": "WINNIPEG, CANADA",
+    "State": ""
+  },
+  {
+    "Code": "AMS",
+    "City": "AMSTERDAM-SCHIPHOL, NETHERLANDS",
+    "State": ""
+  },
+  {
+    "Code": "ARB",
+    "City": "ARUBA, NETH ANTILLES",
+    "State": ""
+  },
+  {
+    "Code": "BAN",
+    "City": "BANKOK, THAILAND",
+    "State": ""
+  },
+  {
+    "Code": "BEI",
+    "City": "BEICA #ARPT, ETHIOPIA",
+    "State": ""
+  },
+  {
+    "Code": "PEK",
+    "City": "BEIJING CAPITAL INTL, PRC",
+    "State": ""
+  },
+  {
+    "Code": "BDA",
+    "City": "KINDLEY FIELD, BERMUDA",
+    "State": ""
+  },
+  {
+    "Code": "BOG",
+    "City": "BOGOTA, EL DORADO #ARPT, COLOMBIA",
+    "State": ""
+  },
+  {
+    "Code": "EZE",
+    "City": "BUENOS AIRES, MINISTRO PIST, ARGENTINA",
+    "State": ""
+  },
+  {
+    "Code": "CUN",
+    "City": "CANCUN, MEXICO",
+    "State": ""
+  },
+  {
+    "Code": "CRQ",
+    "City": "CARAVELAS, BA #ARPT, BRAZIL",
+    "State": ""
+  },
+  {
+    "Code": "MVD",
+    "City": "CARRASCO, URUGUAY",
+    "State": ""
+  },
+  {
+    "Code": "DUB",
+    "City": "DUBLIN, IRELAND",
+    "State": ""
+  },
+  {
+    "Code": "FOU",
+    "City": "FOUGAMOU #ARPT, GABON",
+    "State": ""
+  },
+  {
+    "Code": "FBA",
+    "City": "FREEPORT, BAHAMAS",
+    "State": ""
+  },
+  {
+    "Code": "MTY",
+    "City": "GEN M. ESCOBEDO, Monterrey",
+    "State": "MX"
+  },
+  {
+    "Code": "HMO",
+    "City": "GEN PESQUEIRA GARCIA",
+    "State": "MX"
+  },
+  {
+    "Code": "GCM",
+    "City": "GRAND CAYMAN, CAYMAN ISLAND",
+    "State": ""
+  },
+  {
+    "Code": "GDL",
+    "City": "GUADALAJARA, MIGUEL HIDAL",
+    "State": "MX"
+  },
+  {
+    "Code": "HAM",
+    "City": "HAMILTON, BERMUDA",
+    "State": ""
+  },
+  {
+    "Code": "ICN",
+    "City": "INCHON, SEOUL KOREA",
+    "State": ""
+  },
+  {
+    "Code": "IWA",
+    "City": "INVALID - IWAKUNI, JAPAN",
+    "State": ""
+  },
+  {
+    "Code": "CND",
+    "City": "KOGALNICEANU, ROMANIA",
+    "State": ""
+  },
+  {
+    "Code": "LAH",
+    "City": "LABUHA ARPT, INDONESIA",
+    "State": ""
+  },
+  {
+    "Code": "DUR",
+    "City": "LOUIS BOTHA, SOUTH AFRICA",
+    "State": ""
+  },
+  {
+    "Code": "MAL",
+    "City": "MANGOLE ARPT, INDONESIA",
+    "State": ""
+  },
+  {
+    "Code": "MDE",
+    "City": "MEDELLIN, COLOMBIA",
+    "State": ""
+  },
+  {
+    "Code": "MEX",
+    "City": "JUAREZ INTL, MEXICO CITY",
+    "State": "MX"
+  },
+  {
+    "Code": "LHR",
+    "City": "MIDDLESEX, ENGLAND",
+    "State": ""
+  },
+  {
+    "Code": "NBO",
+    "City": "NAIROBI, KENYA",
+    "State": ""
+  },
+  {
+    "Code": "NAS",
+    "City": "NASSAU, BAHAMAS",
+    "State": ""
+  },
+  {
+    "Code": "NCA",
+    "City": "NORTH CAICOS, TURK & CAIMAN",
+    "State": ""
+  },
+  {
+    "Code": "PTY",
+    "City": "OMAR TORRIJOS, PANAMA",
+    "State": ""
+  },
+  {
+    "Code": "SPV",
+    "City": "PAPUA, NEW GUINEA",
+    "State": ""
+  },
+  {
+    "Code": "UIO",
+    "City": "QUITO (MARISCAL SUCR), ECUADOR",
+    "State": ""
+  },
+  {
+    "Code": "RIT",
+    "City": "ROME, ITALY",
+    "State": ""
+  },
+  {
+    "Code": "SNO",
+    "City": "SAKON NAKHON #ARPT, THAILAND",
+    "State": ""
+  },
+  {
+    "Code": "SLP",
+    "City": "SAN LUIS POTOSI #ARPT, MEXICO",
+    "State": ""
+  },
+  {
+    "Code": "SAN",
+    "City": "SAN SALVADOR, EL SALVADOR",
+    "State": ""
+  },
+  {
+    "Code": "SRO",
+    "City": "SANTANA RAMOS #ARPT, COLOMBIA",
+    "State": ""
+  },
+  {
+    "Code": "GRU",
+    "City": "GUARULHOS INTL, SAO PAULO, BRAZIL",
+    "State": ""
+  },
+  {
+    "Code": "SHA",
+    "City": "SHANNON, IRELAND",
+    "State": ""
+  },
+  {
+    "Code": "HIL",
+    "City": "SHILLAVO, ETHIOPIA",
+    "State": ""
+  },
+  {
+    "Code": "TOK",
+    "City": "TOROKINA #ARPT, PAPUA, NEW GUINEA",
+    "State": ""
+  },
+  {
+    "Code": "VER",
+    "City": "VERACRUZ, MEXICO",
+    "State": ""
+  },
+  {
+    "Code": "LGW",
+    "City": "WEST SUSSEX, ENGLAND",
+    "State": ""
+  },
+  {
+    "Code": "ZZZ",
+    "City": "MEXICO Land (Banco de Mexico)",
+    "State": ""
+  },
+  {
+    "Code": "CHN",
+    "City": "No PORT Code (CHN)",
+    "State": ""
+  },
+  {
+    "Code": "CNC",
+    "City": "CANNON CORNERS",
+    "State": "NY"
+  },
+  {
+    "Code": "MAA",
+    "City": "Abu Dhabi",
+    "State": ""
+  },
+  {
+    "Code": "AG0",
+    "City": "MAGNOLIA",
+    "State": "AR"
+  },
+  {
+    "Code": "BHM",
+    "City": "BAR HARBOR",
+    "State": "ME"
+  },
+  {
+    "Code": "BHX",
+    "City": "BIRMINGHAM",
+    "State": "AL"
+  },
+  {
+    "Code": "CAK",
+    "City": "AKRON",
+    "State": "OH"
+  },
+  {
+    "Code": "FOK",
+    "City": "SUFFOLK COUNTY",
+    "State": "NY"
+  },
+  {
+    "Code": "LND",
+    "City": "LANDER",
+    "State": "WY"
+  },
+  {
+    "Code": "MAR",
+    "City": "MARFA",
+    "State": "TX"
+  },
+  {
+    "Code": "MLI",
+    "City": "MOLINE",
+    "State": "IL"
+  },
+  {
+    "Code": "RIV",
+    "City": "RIVERSIDE",
+    "State": "CA"
+  },
+  {
+    "Code": "RME",
+    "City": "ROME",
+    "State": "NY"
+  },
+  {
+    "Code": "VNY",
+    "City": "VAN NUYS",
+    "State": "CA"
+  },
+  {
+    "Code": "YUM",
+    "City": "YUMA",
+    "State": "AZ"
+  },
+  {
+    "Code": "FRG",
+    "City": "Collapsed (FOK) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "HRL",
+    "City": "Collapsed (HLG) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "ISP",
+    "City": "Collapsed (FOK) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "JSJ",
+    "City": "Collapsed (SAJ) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "BUS",
+    "City": "Collapsed (BUF) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "IAG",
+    "City": "Collapsed (NIA) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "PHN",
+    "City": "Collapsed (PHU) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "STN",
+    "City": "Collapsed (STR) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "VMB",
+    "City": "Collapsed (VNB) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "T01",
+    "City": "Collapsed (SEA) 06/15",
+    "State": ""
+  },
+  {
+    "Code": "PHF",
+    "City": "No PORT Code (PHF)",
+    "State": ""
+  },
+  {
+    "Code": "DRV",
+    "City": "No PORT Code (DRV)",
+    "State": ""
+  },
+  {
+    "Code": "FTB",
+    "City": "No PORT Code (FTB)",
+    "State": ""
+  },
+  {
+    "Code": "GAC",
+    "City": "No PORT Code (GAC)",
+    "State": ""
+  },
+  {
+    "Code": "GMT",
+    "City": "No PORT Code (GMT)",
+    "State": ""
+  },
+  {
+    "Code": "JFA",
+    "City": "No PORT Code (JFA)",
+    "State": ""
+  },
+  {
+    "Code": "JMZ",
+    "City": "No PORT Code (JMZ)",
+    "State": ""
+  },
+  {
+    "Code": "NC8",
+    "City": "No PORT Code (NC8)",
+    "State": ""
+  },
+  {
+    "Code": "NYL",
+    "City": "No PORT Code (NYL)",
+    "State": ""
+  },
+  {
+    "Code": "OAI",
+    "City": "No PORT Code (OAI)",
+    "State": ""
+  },
+  {
+    "Code": "PCW",
+    "City": "No PORT Code (PCW)",
+    "State": ""
+  },
+  {
+    "Code": "WA5",
+    "City": "No PORT Code (WAS)",
+    "State": ""
+  },
+  {
+    "Code": "WTR",
+    "City": "No PORT Code (WTR)",
+    "State": ""
+  },
+  {
+    "Code": "X96",
+    "City": "No PORT Code (X96)",
+    "State": ""
+  },
+  {
+    "Code": "XNA",
+    "City": "No PORT Code (XNA)",
+    "State": ""
+  },
+  {
+    "Code": "YGF",
+    "City": "No PORT Code (YGF)",
+    "State": ""
+  },
+  {
+    "Code": "5T6",
+    "City": "No PORT Code (5T6)",
+    "State": ""
+  },
+  {
+    "Code": "060",
+    "City": "No PORT Code (60)",
+    "State": ""
+  },
+  {
+    "Code": "SP0",
+    "City": "No PORT Code (SP0)",
+    "State": ""
+  },
+  {
+    "Code": "W55",
+    "City": "No PORT Code (W55)",
+    "State": ""
+  },
+  {
+    "Code": "X44",
+    "City": "No PORT Code (X44)",
+    "State": ""
+  },
+  {
+    "Code": "AUH",
+    "City": "No PORT Code (AUH)",
+    "State": ""
+  },
+  {
+    "Code": "RYY",
+    "City": "No PORT Code (RYY)",
+    "State": ""
+  },
+  {
+    "Code": "SUS",
+    "City": "No PORT Code (SUS)",
+    "State": ""
+  },
+  {
+    "Code": "74S",
+    "City": "No PORT Code (74S)",
+    "State": ""
+  },
+  {
+    "Code": "ATW",
+    "City": "No PORT Code (ATW)",
+    "State": ""
+  },
+  {
+    "Code": "CPX",
+    "City": "No PORT Code (CPX)",
+    "State": ""
+  },
+  {
+    "Code": "MTH",
+    "City": "No PORT Code (MTH)",
+    "State": ""
+  },
+  {
+    "Code": "PFN",
+    "City": "No PORT Code (PFN)",
+    "State": ""
+  },
+  {
+    "Code": "SCH",
+    "City": "No PORT Code (SCH)",
+    "State": ""
+  },
+  {
+    "Code": "ASI",
+    "City": "No PORT Code (ASI)",
+    "State": ""
+  },
+  {
+    "Code": "BKF",
+    "City": "No PORT Code (BKF)",
+    "State": ""
+  },
+  {
+    "Code": "DAY",
+    "City": "No PORT Code (DAY)",
+    "State": ""
+  },
+  {
+    "Code": "Y62",
+    "City": "No PORT Code (Y62)",
+    "State": ""
+  },
+  {
+    "Code": "AG",
+    "City": "No PORT Code (AG)",
+    "State": ""
+  },
+  {
+    "Code": "BCM",
+    "City": "No PORT Code (BCM)",
+    "State": ""
+  },
+  {
+    "Code": "DEC",
+    "City": "No PORT Code (DEC)",
+    "State": ""
+  },
+  {
+    "Code": "PLB",
+    "City": "No PORT Code (PLB)",
+    "State": ""
+  },
+  {
+    "Code": "CXO",
+    "City": "No PORT Code (CXO)",
+    "State": ""
+  },
+  {
+    "Code": "JBQ",
+    "City": "No PORT Code (JBQ)",
+    "State": ""
+  },
+  {
+    "Code": "JIG",
+    "City": "No PORT Code (JIG)",
+    "State": ""
+  },
+  {
+    "Code": "OGS",
+    "City": "No PORT Code (OGS)",
+    "State": ""
+  },
+  {
+    "Code": "TIW",
+    "City": "No PORT Code (TIW)",
+    "State": ""
+  },
+  {
+    "Code": "OTS",
+    "City": "No PORT Code (OTS)",
+    "State": ""
+  },
+  {
+    "Code": "AMT",
+    "City": "No PORT Code (AMT)",
+    "State": ""
+  },
+  {
+    "Code": "EGE",
+    "City": "No PORT Code (EGE)",
+    "State": ""
+  },
+  {
+    "Code": "GPI",
+    "City": "No PORT Code (GPI)",
+    "State": ""
+  },
+  {
+    "Code": "NGL",
+    "City": "No PORT Code (NGL)",
+    "State": ""
+  },
+  {
+    "Code": "OLM",
+    "City": "No PORT Code (OLM)",
+    "State": ""
+  },
+  {
+    "Code": ".GA",
+    "City": "No PORT Code (.GA)",
+    "State": ""
+  },
+  {
+    "Code": "CLX",
+    "City": "No PORT Code (CLX)",
+    "State": ""
+  },
+  {
+    "Code": "CP",
+    "City": "No PORT Code (CP)",
+    "State": ""
+  },
+  {
+    "Code": "FSC",
+    "City": "No PORT Code (FSC)",
+    "State": ""
+  },
+  {
+    "Code": "NK",
+    "City": "No PORT Code (NK)",
+    "State": ""
+  },
+  {
+    "Code": "ADU",
+    "City": "No PORT Code (ADU)",
+    "State": ""
+  },
+  {
+    "Code": "AKT",
+    "City": "No PORT Code (AKT)",
+    "State": ""
+  },
+  {
+    "Code": "LIT",
+    "City": "No PORT Code (LIT)",
+    "State": ""
+  },
+  {
+    "Code": "A2A",
+    "City": "No PORT Code (A2A)",
+    "State": ""
+  },
+  {
+    "Code": "OSN",
+    "City": "No PORT Code (OSN)",
+    "State": ""
+  }
+]

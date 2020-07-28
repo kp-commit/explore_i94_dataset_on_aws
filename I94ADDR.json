@@ -1,0 +1,222 @@
+[
+  {
+    "Statecode": "AL",
+    "Statename": "ALABAMA"
+  },
+  {
+    "Statecode": "AK",
+    "Statename": "ALASKA"
+  },
+  {
+    "Statecode": "AZ",
+    "Statename": "ARIZONA"
+  },
+  {
+    "Statecode": "AR",
+    "Statename": "ARKANSAS"
+  },
+  {
+    "Statecode": "CA",
+    "Statename": "CALIFORNIA"
+  },
+  {
+    "Statecode": "CO",
+    "Statename": "COLORADO"
+  },
+  {
+    "Statecode": "CT",
+    "Statename": "CONNECTICUT"
+  },
+  {
+    "Statecode": "DE",
+    "Statename": "DELAWARE"
+  },
+  {
+    "Statecode": "DC",
+    "Statename": "DIST. OF COLUMBIA"
+  },
+  {
+    "Statecode": "FL",
+    "Statename": "FLORIDA"
+  },
+  {
+    "Statecode": "GA",
+    "Statename": "GEORGIA"
+  },
+  {
+    "Statecode": "GU",
+    "Statename": "GUAM"
+  },
+  {
+    "Statecode": "HI",
+    "Statename": "HAWAII"
+  },
+  {
+    "Statecode": "ID",
+    "Statename": "IDAHO"
+  },
+  {
+    "Statecode": "IL",
+    "Statename": "ILLINOIS"
+  },
+  {
+    "Statecode": "IN",
+    "Statename": "INDIANA"
+  },
+  {
+    "Statecode": "IA",
+    "Statename": "IOWA"
+  },
+  {
+    "Statecode": "KS",
+    "Statename": "KANSAS"
+  },
+  {
+    "Statecode": "KY",
+    "Statename": "KENTUCKY"
+  },
+  {
+    "Statecode": "LA",
+    "Statename": "LOUISIANA"
+  },
+  {
+    "Statecode": "ME",
+    "Statename": "MAINE"
+  },
+  {
+    "Statecode": "MD",
+    "Statename": "MARYLAND"
+  },
+  {
+    "Statecode": "MA",
+    "Statename": "MASSACHUSETTS"
+  },
+  {
+    "Statecode": "MI",
+    "Statename": "MICHIGAN"
+  },
+  {
+    "Statecode": "MN",
+    "Statename": "MINNESOTA"
+  },
+  {
+    "Statecode": "MS",
+    "Statename": "MISSISSIPPI"
+  },
+  {
+    "Statecode": "MO",
+    "Statename": "MISSOURI"
+  },
+  {
+    "Statecode": "MT",
+    "Statename": "MONTANA"
+  },
+  {
+    "Statecode": "NC",
+    "Statename": "N. CAROLINA"
+  },
+  {
+    "Statecode": "ND",
+    "Statename": "N. DAKOTA"
+  },
+  {
+    "Statecode": "NE",
+    "Statename": "NEBRASKA"
+  },
+  {
+    "Statecode": "NV",
+    "Statename": "NEVADA"
+  },
+  {
+    "Statecode": "NH",
+    "Statename": "NEW HAMPSHIRE"
+  },
+  {
+    "Statecode": "NJ",
+    "Statename": "NEW JERSEY"
+  },
+  {
+    "Statecode": "NM",
+    "Statename": "NEW MEXICO"
+  },
+  {
+    "Statecode": "NY",
+    "Statename": "NEW YORK"
+  },
+  {
+    "Statecode": "OH",
+    "Statename": "OHIO"
+  },
+  {
+    "Statecode": "OK",
+    "Statename": "OKLAHOMA"
+  },
+  {
+    "Statecode": "OR",
+    "Statename": "OREGON"
+  },
+  {
+    "Statecode": "PA",
+    "Statename": "PENNSYLVANIA"
+  },
+  {
+    "Statecode": "PR",
+    "Statename": "PUERTO RICO"
+  },
+  {
+    "Statecode": "RI",
+    "Statename": "RHODE ISLAND"
+  },
+  {
+    "Statecode": "SC",
+    "Statename": "S. CAROLINA"
+  },
+  {
+    "Statecode": "SD",
+    "Statename": "S. DAKOTA"
+  },
+  {
+    "Statecode": "TN",
+    "Statename": "TENNESSEE"
+  },
+  {
+    "Statecode": "TX",
+    "Statename": "TEXAS"
+  },
+  {
+    "Statecode": "UT",
+    "Statename": "UTAH"
+  },
+  {
+    "Statecode": "VT",
+    "Statename": "VERMONT"
+  },
+  {
+    "Statecode": "VI",
+    "Statename": "VIRGIN ISLANDS"
+  },
+  {
+    "Statecode": "VA",
+    "Statename": "VIRGINIA"
+  },
+  {
+    "Statecode": "WV",
+    "Statename": "W. VIRGINIA"
+  },
+  {
+    "Statecode": "WA",
+    "Statename": "WASHINGTON"
+  },
+  {
+    "Statecode": "WI",
+    "Statename": "WISCONSON"
+  },
+  {
+    "Statecode": "WY",
+    "Statename": "WYOMING"
+  },
+  {
+    "Statecode": 99,
+    "Statename": "All Other Codes"
+  }
+]

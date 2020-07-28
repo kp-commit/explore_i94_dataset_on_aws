@@ -1,0 +1,14 @@
+[
+  {
+    "Code": 1,
+    "Purpose": "Business"
+  },
+  {
+    "Code": 2,
+    "Purpose": "Pleasure"
+  },
+  {
+    "Code": 3,
+    "Purpose": "Student"
+  }
+]
