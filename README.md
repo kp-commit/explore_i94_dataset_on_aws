@@ -93,8 +93,7 @@ _(**Note:** No relations shown, i.e. no referenital integrity kept. These are te
 
 
 **Why did I choose the model you chose?**
-Main focus of requirements needed quick delivery in EMR solution.
-A non relational approach for processing Big Data was needed, both for Storage/Retrieveal (S3) and fast processing (EMR Spark). Columns identified with high null value count were dropped, appropriate columns renamed when needed, and duplicates removed.
+<br>Main focus of requirements needed quick delivery in EMR. A non relational approach for processing Big Data was needed, both for Storage/Retrieveal (S3) and fast processing (EMR Spark). Columns identified with high null value count were dropped, appropriate columns renamed when needed, and duplicates removed.
 
 <br>
 
