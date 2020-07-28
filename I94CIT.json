@@ -1,0 +1,1158 @@
+[
+  {
+    "Code": 582,
+    "Country": "MEXICO Air Sea, and Not Reported (I-94, no land arrivals)"
+  },
+  {
+    "Code": 236,
+    "Country": "AFGHANISTAN"
+  },
+  {
+    "Code": 101,
+    "Country": "ALBANIA"
+  },
+  {
+    "Code": 316,
+    "Country": "ALGERIA"
+  },
+  {
+    "Code": 102,
+    "Country": "ANDORRA"
+  },
+  {
+    "Code": 324,
+    "Country": "ANGOLA"
+  },
+  {
+    "Code": 529,
+    "Country": "ANGUILLA"
+  },
+  {
+    "Code": 518,
+    "Country": "ANTIGUA-BARBUDA"
+  },
+  {
+    "Code": 687,
+    "Country": "ARGENTINA"
+  },
+  {
+    "Code": 151,
+    "Country": "ARMENIA"
+  },
+  {
+    "Code": 532,
+    "Country": "ARUBA"
+  },
+  {
+    "Code": 438,
+    "Country": "AUSTRALIA"
+  },
+  {
+    "Code": 103,
+    "Country": "AUSTRIA"
+  },
+  {
+    "Code": 152,
+    "Country": "AZERBAIJAN"
+  },
+  {
+    "Code": 512,
+    "Country": "BAHAMAS"
+  },
+  {
+    "Code": 298,
+    "Country": "BAHRAIN"
+  },
+  {
+    "Code": 274,
+    "Country": "BANGLADESH"
+  },
+  {
+    "Code": 513,
+    "Country": "BARBADOS"
+  },
+  {
+    "Code": 104,
+    "Country": "BELGIUM"
+  },
+  {
+    "Code": 581,
+    "Country": "BELIZE"
+  },
+  {
+    "Code": 386,
+    "Country": "BENIN"
+  },
+  {
+    "Code": 509,
+    "Country": "BERMUDA"
+  },
+  {
+    "Code": 153,
+    "Country": "BELARUS"
+  },
+  {
+    "Code": 242,
+    "Country": "BHUTAN"
+  },
+  {
+    "Code": 688,
+    "Country": "BOLIVIA"
+  },
+  {
+    "Code": 717,
+    "Country": "BONAIRE, ST EUSTATIUS, SABA"
+  },
+  {
+    "Code": 164,
+    "Country": "BOSNIA-HERZEGOVINA"
+  },
+  {
+    "Code": 336,
+    "Country": "BOTSWANA"
+  },
+  {
+    "Code": 689,
+    "Country": "BRAZIL"
+  },
+  {
+    "Code": 525,
+    "Country": "BRITISH VIRGIN ISLANDS"
+  },
+  {
+    "Code": 217,
+    "Country": "BRUNEI"
+  },
+  {
+    "Code": 105,
+    "Country": "BULGARIA"
+  },
+  {
+    "Code": 393,
+    "Country": "BURKINA FASO"
+  },
+  {
+    "Code": 243,
+    "Country": "BURMA"
+  },
+  {
+    "Code": 375,
+    "Country": "BURUNDI"
+  },
+  {
+    "Code": 310,
+    "Country": "CAMEROON"
+  },
+  {
+    "Code": 326,
+    "Country": "CAPE VERDE"
+  },
+  {
+    "Code": 526,
+    "Country": "CAYMAN ISLANDS"
+  },
+  {
+    "Code": 383,
+    "Country": "CENTRAL AFRICAN REPUBLIC"
+  },
+  {
+    "Code": 384,
+    "Country": "CHAD"
+  },
+  {
+    "Code": 690,
+    "Country": "CHILE"
+  },
+  {
+    "Code": 245,
+    "Country": "CHINA, PRC"
+  },
+  {
+    "Code": 721,
+    "Country": "CURACAO"
+  },
+  {
+    "Code": 270,
+    "Country": "CHRISTMAS ISLAND"
+  },
+  {
+    "Code": 271,
+    "Country": "COCOS ISLANDS"
+  },
+  {
+    "Code": 691,
+    "Country": "COLOMBIA"
+  },
+  {
+    "Code": 317,
+    "Country": "COMOROS"
+  },
+  {
+    "Code": 385,
+    "Country": "CONGO"
+  },
+  {
+    "Code": 467,
+    "Country": "COOK ISLANDS"
+  },
+  {
+    "Code": 575,
+    "Country": "COSTA RICA"
+  },
+  {
+    "Code": 165,
+    "Country": "CROATIA"
+  },
+  {
+    "Code": 584,
+    "Country": "CUBA"
+  },
+  {
+    "Code": 218,
+    "Country": "CYPRUS"
+  },
+  {
+    "Code": 140,
+    "Country": "CZECH REPUBLIC"
+  },
+  {
+    "Code": 723,
+    "Country": "FAROE ISLANDS (PART OF DENMARK)"
+  },
+  {
+    "Code": 108,
+    "Country": "DENMARK"
+  },
+  {
+    "Code": 322,
+    "Country": "DJIBOUTI"
+  },
+  {
+    "Code": 519,
+    "Country": "DOMINICA"
+  },
+  {
+    "Code": 585,
+    "Country": "DOMINICAN REPUBLIC"
+  },
+  {
+    "Code": 240,
+    "Country": "EAST TIMOR"
+  },
+  {
+    "Code": 692,
+    "Country": "ECUADOR"
+  },
+  {
+    "Code": 368,
+    "Country": "EGYPT"
+  },
+  {
+    "Code": 576,
+    "Country": "EL SALVADOR"
+  },
+  {
+    "Code": 399,
+    "Country": "EQUATORIAL GUINEA"
+  },
+  {
+    "Code": 372,
+    "Country": "ERITREA"
+  },
+  {
+    "Code": 109,
+    "Country": "ESTONIA"
+  },
+  {
+    "Code": 369,
+    "Country": "ETHIOPIA"
+  },
+  {
+    "Code": 604,
+    "Country": "FALKLAND ISLANDS"
+  },
+  {
+    "Code": 413,
+    "Country": "FIJI"
+  },
+  {
+    "Code": 110,
+    "Country": "FINLAND"
+  },
+  {
+    "Code": 111,
+    "Country": "FRANCE"
+  },
+  {
+    "Code": 601,
+    "Country": "FRENCH GUIANA"
+  },
+  {
+    "Code": 411,
+    "Country": "FRENCH POLYNESIA"
+  },
+  {
+    "Code": 387,
+    "Country": "GABON"
+  },
+  {
+    "Code": 338,
+    "Country": "GAMBIA"
+  },
+  {
+    "Code": 758,
+    "Country": "GAZA STRIP"
+  },
+  {
+    "Code": 154,
+    "Country": "GEORGIA"
+  },
+  {
+    "Code": 112,
+    "Country": "GERMANY"
+  },
+  {
+    "Code": 339,
+    "Country": "GHANA"
+  },
+  {
+    "Code": 143,
+    "Country": "GIBRALTAR"
+  },
+  {
+    "Code": 113,
+    "Country": "GREECE"
+  },
+  {
+    "Code": 520,
+    "Country": "GRENADA"
+  },
+  {
+    "Code": 507,
+    "Country": "GUADELOUPE"
+  },
+  {
+    "Code": 577,
+    "Country": "GUATEMALA"
+  },
+  {
+    "Code": 382,
+    "Country": "GUINEA"
+  },
+  {
+    "Code": 327,
+    "Country": "GUINEA-BISSAU"
+  },
+  {
+    "Code": 603,
+    "Country": "GUYANA"
+  },
+  {
+    "Code": 586,
+    "Country": "HAITI"
+  },
+  {
+    "Code": 726,
+    "Country": "HEARD AND MCDONALD IS."
+  },
+  {
+    "Code": 149,
+    "Country": "HOLY SEE/VATICAN"
+  },
+  {
+    "Code": 528,
+    "Country": "HONDURAS"
+  },
+  {
+    "Code": 206,
+    "Country": "HONG KONG"
+  },
+  {
+    "Code": 114,
+    "Country": "HUNGARY"
+  },
+  {
+    "Code": 115,
+    "Country": "ICELAND"
+  },
+  {
+    "Code": 213,
+    "Country": "INDIA"
+  },
+  {
+    "Code": 759,
+    "Country": "INDIAN OCEAN AREAS (FRENCH)"
+  },
+  {
+    "Code": 729,
+    "Country": "INDIAN OCEAN TERRITORY"
+  },
+  {
+    "Code": 204,
+    "Country": "INDONESIA"
+  },
+  {
+    "Code": 249,
+    "Country": "IRAN"
+  },
+  {
+    "Code": 250,
+    "Country": "IRAQ"
+  },
+  {
+    "Code": 116,
+    "Country": "IRELAND"
+  },
+  {
+    "Code": 251,
+    "Country": "ISRAEL"
+  },
+  {
+    "Code": 117,
+    "Country": "ITALY"
+  },
+  {
+    "Code": 388,
+    "Country": "IVORY COAST"
+  },
+  {
+    "Code": 514,
+    "Country": "JAMAICA"
+  },
+  {
+    "Code": 209,
+    "Country": "JAPAN"
+  },
+  {
+    "Code": 253,
+    "Country": "JORDAN"
+  },
+  {
+    "Code": 201,
+    "Country": "KAMPUCHEA"
+  },
+  {
+    "Code": 155,
+    "Country": "KAZAKHSTAN"
+  },
+  {
+    "Code": 340,
+    "Country": "KENYA"
+  },
+  {
+    "Code": 414,
+    "Country": "KIRIBATI"
+  },
+  {
+    "Code": 732,
+    "Country": "KOSOVO"
+  },
+  {
+    "Code": 272,
+    "Country": "KUWAIT"
+  },
+  {
+    "Code": 156,
+    "Country": "KYRGYZSTAN"
+  },
+  {
+    "Code": 203,
+    "Country": "LAOS"
+  },
+  {
+    "Code": 118,
+    "Country": "LATVIA"
+  },
+  {
+    "Code": 255,
+    "Country": "LEBANON"
+  },
+  {
+    "Code": 335,
+    "Country": "LESOTHO"
+  },
+  {
+    "Code": 370,
+    "Country": "LIBERIA"
+  },
+  {
+    "Code": 381,
+    "Country": "LIBYA"
+  },
+  {
+    "Code": 119,
+    "Country": "LIECHTENSTEIN"
+  },
+  {
+    "Code": 120,
+    "Country": "LITHUANIA"
+  },
+  {
+    "Code": 121,
+    "Country": "LUXEMBOURG"
+  },
+  {
+    "Code": 214,
+    "Country": "MACAU"
+  },
+  {
+    "Code": 167,
+    "Country": "MACEDONIA"
+  },
+  {
+    "Code": 320,
+    "Country": "MADAGASCAR"
+  },
+  {
+    "Code": 345,
+    "Country": "MALAWI"
+  },
+  {
+    "Code": 273,
+    "Country": "MALAYSIA"
+  },
+  {
+    "Code": 220,
+    "Country": "MALDIVES"
+  },
+  {
+    "Code": 392,
+    "Country": "MALI"
+  },
+  {
+    "Code": 145,
+    "Country": "MALTA"
+  },
+  {
+    "Code": 472,
+    "Country": "MARSHALL ISLANDS"
+  },
+  {
+    "Code": 511,
+    "Country": "MARTINIQUE"
+  },
+  {
+    "Code": 389,
+    "Country": "MAURITANIA"
+  },
+  {
+    "Code": 342,
+    "Country": "MAURITIUS"
+  },
+  {
+    "Code": 760,
+    "Country": "MAYOTTE (AFRICA - FRENCH)"
+  },
+  {
+    "Code": 473,
+    "Country": "MICRONESIA, FED. STATES OF"
+  },
+  {
+    "Code": 157,
+    "Country": "MOLDOVA"
+  },
+  {
+    "Code": 122,
+    "Country": "MONACO"
+  },
+  {
+    "Code": 299,
+    "Country": "MONGOLIA"
+  },
+  {
+    "Code": 735,
+    "Country": "MONTENEGRO"
+  },
+  {
+    "Code": 521,
+    "Country": "MONTSERRAT"
+  },
+  {
+    "Code": 332,
+    "Country": "MOROCCO"
+  },
+  {
+    "Code": 329,
+    "Country": "MOZAMBIQUE"
+  },
+  {
+    "Code": 371,
+    "Country": "NAMIBIA"
+  },
+  {
+    "Code": 440,
+    "Country": "NAURU"
+  },
+  {
+    "Code": 257,
+    "Country": "NEPAL"
+  },
+  {
+    "Code": 123,
+    "Country": "NETHERLANDS"
+  },
+  {
+    "Code": 508,
+    "Country": "NETHERLANDS ANTILLES"
+  },
+  {
+    "Code": 409,
+    "Country": "NEW CALEDONIA"
+  },
+  {
+    "Code": 464,
+    "Country": "NEW ZEALAND"
+  },
+  {
+    "Code": 579,
+    "Country": "NICARAGUA"
+  },
+  {
+    "Code": 390,
+    "Country": "NIGER"
+  },
+  {
+    "Code": 343,
+    "Country": "NIGERIA"
+  },
+  {
+    "Code": 470,
+    "Country": "NIUE"
+  },
+  {
+    "Code": 275,
+    "Country": "NORTH KOREA"
+  },
+  {
+    "Code": 124,
+    "Country": "NORWAY"
+  },
+  {
+    "Code": 256,
+    "Country": "OMAN"
+  },
+  {
+    "Code": 258,
+    "Country": "PAKISTAN"
+  },
+  {
+    "Code": 474,
+    "Country": "PALAU"
+  },
+  {
+    "Code": 743,
+    "Country": "PALESTINE"
+  },
+  {
+    "Code": 504,
+    "Country": "PANAMA"
+  },
+  {
+    "Code": 441,
+    "Country": "PAPUA NEW GUINEA"
+  },
+  {
+    "Code": 693,
+    "Country": "PARAGUAY"
+  },
+  {
+    "Code": 694,
+    "Country": "PERU"
+  },
+  {
+    "Code": 260,
+    "Country": "PHILIPPINES"
+  },
+  {
+    "Code": 416,
+    "Country": "PITCAIRN ISLANDS"
+  },
+  {
+    "Code": 107,
+    "Country": "POLAND"
+  },
+  {
+    "Code": 126,
+    "Country": "PORTUGAL"
+  },
+  {
+    "Code": 297,
+    "Country": "QATAR"
+  },
+  {
+    "Code": 748,
+    "Country": "REPUBLIC OF SOUTH SUDAN"
+  },
+  {
+    "Code": 321,
+    "Country": "REUNION"
+  },
+  {
+    "Code": 127,
+    "Country": "ROMANIA"
+  },
+  {
+    "Code": 158,
+    "Country": "RUSSIA"
+  },
+  {
+    "Code": 376,
+    "Country": "RWANDA"
+  },
+  {
+    "Code": 128,
+    "Country": "SAN MARINO"
+  },
+  {
+    "Code": 330,
+    "Country": "SAO TOME AND PRINCIPE"
+  },
+  {
+    "Code": 261,
+    "Country": "SAUDI ARABIA"
+  },
+  {
+    "Code": 391,
+    "Country": "SENEGAL"
+  },
+  {
+    "Code": 142,
+    "Country": "SERBIA AND MONTENEGRO"
+  },
+  {
+    "Code": 745,
+    "Country": "SERBIA"
+  },
+  {
+    "Code": 347,
+    "Country": "SEYCHELLES"
+  },
+  {
+    "Code": 348,
+    "Country": "SIERRA LEONE"
+  },
+  {
+    "Code": 207,
+    "Country": "SINGAPORE"
+  },
+  {
+    "Code": 141,
+    "Country": "SLOVAKIA"
+  },
+  {
+    "Code": 166,
+    "Country": "SLOVENIA"
+  },
+  {
+    "Code": 412,
+    "Country": "SOLOMON ISLANDS"
+  },
+  {
+    "Code": 397,
+    "Country": "SOMALIA"
+  },
+  {
+    "Code": 373,
+    "Country": "SOUTH AFRICA"
+  },
+  {
+    "Code": 276,
+    "Country": "SOUTH KOREA"
+  },
+  {
+    "Code": 129,
+    "Country": "SPAIN"
+  },
+  {
+    "Code": 244,
+    "Country": "SRI LANKA"
+  },
+  {
+    "Code": 346,
+    "Country": "ST. HELENA"
+  },
+  {
+    "Code": 522,
+    "Country": "ST. KITTS-NEVIS"
+  },
+  {
+    "Code": 523,
+    "Country": "ST. LUCIA"
+  },
+  {
+    "Code": 502,
+    "Country": "ST. PIERRE AND MIQUELON"
+  },
+  {
+    "Code": 524,
+    "Country": "ST. VINCENT-GRENADINES"
+  },
+  {
+    "Code": 716,
+    "Country": "SAINT BARTHELEMY"
+  },
+  {
+    "Code": 736,
+    "Country": "SAINT MARTIN"
+  },
+  {
+    "Code": 749,
+    "Country": "SAINT MAARTEN"
+  },
+  {
+    "Code": 350,
+    "Country": "SUDAN"
+  },
+  {
+    "Code": 602,
+    "Country": "SURINAME"
+  },
+  {
+    "Code": 351,
+    "Country": "SWAZILAND"
+  },
+  {
+    "Code": 130,
+    "Country": "SWEDEN"
+  },
+  {
+    "Code": 131,
+    "Country": "SWITZERLAND"
+  },
+  {
+    "Code": 262,
+    "Country": "SYRIA"
+  },
+  {
+    "Code": 268,
+    "Country": "TAIWAN"
+  },
+  {
+    "Code": 159,
+    "Country": "TAJIKISTAN"
+  },
+  {
+    "Code": 353,
+    "Country": "TANZANIA"
+  },
+  {
+    "Code": 263,
+    "Country": "THAILAND"
+  },
+  {
+    "Code": 304,
+    "Country": "TOGO"
+  },
+  {
+    "Code": 417,
+    "Country": "TONGA"
+  },
+  {
+    "Code": 516,
+    "Country": "TRINIDAD AND TOBAGO"
+  },
+  {
+    "Code": 323,
+    "Country": "TUNISIA"
+  },
+  {
+    "Code": 264,
+    "Country": "TURKEY"
+  },
+  {
+    "Code": 161,
+    "Country": "TURKMENISTAN"
+  },
+  {
+    "Code": 527,
+    "Country": "TURKS AND CAICOS ISLANDS"
+  },
+  {
+    "Code": 420,
+    "Country": "TUVALU"
+  },
+  {
+    "Code": 352,
+    "Country": "UGANDA"
+  },
+  {
+    "Code": 162,
+    "Country": "UKRAINE"
+  },
+  {
+    "Code": 296,
+    "Country": "UNITED ARAB EMIRATES"
+  },
+  {
+    "Code": 135,
+    "Country": "UNITED KINGDOM"
+  },
+  {
+    "Code": 695,
+    "Country": "URUGUAY"
+  },
+  {
+    "Code": 163,
+    "Country": "UZBEKISTAN"
+  },
+  {
+    "Code": 410,
+    "Country": "VANUATU"
+  },
+  {
+    "Code": 696,
+    "Country": "VENEZUELA"
+  },
+  {
+    "Code": 266,
+    "Country": "VIETNAM"
+  },
+  {
+    "Code": 469,
+    "Country": "WALLIS AND FUTUNA ISLANDS"
+  },
+  {
+    "Code": 757,
+    "Country": "WEST INDIES (FRENCH)"
+  },
+  {
+    "Code": 333,
+    "Country": "WESTERN SAHARA"
+  },
+  {
+    "Code": 465,
+    "Country": "WESTERN SAMOA"
+  },
+  {
+    "Code": 216,
+    "Country": "YEMEN"
+  },
+  {
+    "Code": 139,
+    "Country": "YUGOSLAVIA"
+  },
+  {
+    "Code": 301,
+    "Country": "ZAIRE"
+  },
+  {
+    "Code": 344,
+    "Country": "ZAMBIA"
+  },
+  {
+    "Code": 315,
+    "Country": "ZIMBABWE"
+  },
+  {
+    "Code": 403,
+    "Country": "INVALID: AMERICAN SAMOA"
+  },
+  {
+    "Code": 712,
+    "Country": "INVALID: ANTARCTICA"
+  },
+  {
+    "Code": 700,
+    "Country": "INVALID: BORN ON BOARD SHIP"
+  },
+  {
+    "Code": 719,
+    "Country": "INVALID: BOUVET ISLAND (ANTARCTICA/NORWAY TERR.)"
+  },
+  {
+    "Code": 574,
+    "Country": "INVALID: CANADA"
+  },
+  {
+    "Code": 720,
+    "Country": "INVALID: CANTON AND ENDERBURY ISLS"
+  },
+  {
+    "Code": 106,
+    "Country": "INVALID: CZECHOSLOVAKIA"
+  },
+  {
+    "Code": 739,
+    "Country": "INVALID: DRONNING MAUD LAND (ANTARCTICA-NORWAY)"
+  },
+  {
+    "Code": 394,
+    "Country": "INVALID: FRENCH SOUTHERN AND ANTARCTIC"
+  },
+  {
+    "Code": 501,
+    "Country": "INVALID: GREENLAND"
+  },
+  {
+    "Code": 404,
+    "Country": "INVALID: GUAM"
+  },
+  {
+    "Code": 730,
+    "Country": "INVALID: INTERNATIONAL WATERS"
+  },
+  {
+    "Code": 731,
+    "Country": "INVALID: JOHNSON ISLAND"
+  },
+  {
+    "Code": 471,
+    "Country": "INVALID: MARIANA ISLANDS, NORTHERN"
+  },
+  {
+    "Code": 737,
+    "Country": "INVALID: MIDWAY ISLANDS"
+  },
+  {
+    "Code": 753,
+    "Country": "INVALID: MINOR OUTLYING ISLANDS - USA"
+  },
+  {
+    "Code": 740,
+    "Country": "INVALID: NEUTRAL ZONE (S. ARABIA/IRAQ)"
+  },
+  {
+    "Code": 710,
+    "Country": "INVALID: NON-QUOTA IMMIGRANT"
+  },
+  {
+    "Code": 505,
+    "Country": "INVALID: PUERTO RICO"
+  },
+  {
+    "Code": 0,
+    "Country": "INVALID: STATELESS"
+  },
+  {
+    "Code": 705,
+    "Country": "INVALID: STATELESS"
+  },
+  {
+    "Code": 583,
+    "Country": "INVALID: UNITED STATES"
+  },
+  {
+    "Code": 407,
+    "Country": "INVALID: UNITED STATES"
+  },
+  {
+    "Code": 999,
+    "Country": "INVALID: UNKNOWN"
+  },
+  {
+    "Code": 239,
+    "Country": "INVALID: UNKNOWN COUNTRY"
+  },
+  {
+    "Code": 134,
+    "Country": "INVALID: USSR"
+  },
+  {
+    "Code": 506,
+    "Country": "INVALID: U.S. VIRGIN ISLANDS"
+  },
+  {
+    "Code": 755,
+    "Country": "INVALID: WAKE ISLAND"
+  },
+  {
+    "Code": 311,
+    "Country": "Collapsed Tanzania (should not show)"
+  },
+  {
+    "Code": 741,
+    "Country": "Collapsed Curacao (should not show)"
+  },
+  {
+    "Code": 54,
+    "Country": "No Country Code (54)"
+  },
+  {
+    "Code": 100,
+    "Country": "No Country Code (100)"
+  },
+  {
+    "Code": 187,
+    "Country": "No Country Code (187)"
+  },
+  {
+    "Code": 190,
+    "Country": "No Country Code (190)"
+  },
+  {
+    "Code": 200,
+    "Country": "No Country Code (200)"
+  },
+  {
+    "Code": 219,
+    "Country": "No Country Code (219)"
+  },
+  {
+    "Code": 238,
+    "Country": "No Country Code (238)"
+  },
+  {
+    "Code": 277,
+    "Country": "No Country Code (277)"
+  },
+  {
+    "Code": 293,
+    "Country": "No Country Code (293)"
+  },
+  {
+    "Code": 300,
+    "Country": "No Country Code (300)"
+  },
+  {
+    "Code": 319,
+    "Country": "No Country Code (319)"
+  },
+  {
+    "Code": 365,
+    "Country": "No Country Code (365)"
+  },
+  {
+    "Code": 395,
+    "Country": "No Country Code (395)"
+  },
+  {
+    "Code": 400,
+    "Country": "No Country Code (400)"
+  },
+  {
+    "Code": 485,
+    "Country": "No Country Code (485)"
+  },
+  {
+    "Code": 503,
+    "Country": "No Country Code (503)"
+  },
+  {
+    "Code": 589,
+    "Country": "No Country Code (589)"
+  },
+  {
+    "Code": 592,
+    "Country": "No Country Code (592)"
+  },
+  {
+    "Code": 791,
+    "Country": "No Country Code (791)"
+  },
+  {
+    "Code": 849,
+    "Country": "No Country Code (849)"
+  },
+  {
+    "Code": 914,
+    "Country": "No Country Code (914)"
+  },
+  {
+    "Code": 944,
+    "Country": "No Country Code (944)"
+  },
+  {
+    "Code": 996,
+    "Country": "No Country Code (996)"
+  }
+]
