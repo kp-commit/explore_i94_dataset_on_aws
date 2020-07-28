@@ -91,8 +91,8 @@ _(**Note:** Entity relations are shown here. Thought of permanent tables structu
 ![i94 Physical Data Model](/images/i94_Data_Model.png)
 _(**Note:** No relations shown, i.e. no referenital integrity kept. These are temporary tables read directly from S3 in Analytics.ipynb Jupyter Notebook)_
 
-Why did I choose the model you chose?
 
+**Why did I choose the model you chose?**
 Main focus of requirements needed quick delivery in EMR solution.
 A non relational approach for processing Big Data was needed, both for Storage/Retrieveal (S3) and fast processing (EMR Spark). Columns identified with high null value count were dropped, appropriate columns renamed when needed, and duplicates removed.
 
