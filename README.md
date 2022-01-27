@@ -1,4 +1,4 @@
-# i94 Data Lake on AWS
+# i94 Analytics with AWS
 #### using EMR, Spark, SparkSQL, Hadoop, Hive, UDF, Boto3, Python, Pandas, Matplotlib, Datasets in S3, JSON, SAS
 
 ---
@@ -9,7 +9,7 @@
 [Data Assessment](https://github.com/kp-commit/i94/blob/master/README.md#data-assessment) <br>
 [Data Model](https://github.com/kp-commit/i94/blob/master/README.md#data-model) <br>
 [Data Dictionary](https://github.com/kp-commit/i94/blob/master/README.md#data-dictionary) <br>
-[Solution for i94 Data Lake in AWS cloud](https://github.com/kp-commit/i94/blob/master/README.md#solution-for-i94-data-lake-in-aws-cloud) <br>
+[Solution for i94](https://github.com/kp-commit/i94/blob/master/README.md#solution-for-i94-data-lake-in-aws-cloud) <br>
 [File Contents and purpose of each file](https://github.com/kp-commit/i94/blob/master/README.md#file-contents-and-purpose-of-each-file) <br>
 [How to Run](https://github.com/kp-commit/i94/blob/master/README.md#how-to-run)
 
@@ -239,7 +239,7 @@ Longitude | Longitude coordinates |
 
 
 
-## Solution for i94 Data Lake in AWS cloud:
+## Solution for i94 Analytics with AWS:
 ![i94 Data Lake in AWS cloud](/images/i94_Data_Lake.png)
 
 Requirements state, that you are working with the Analytics team that needs to look at raw data sources provided and translate the data into a language stakeholders can relate to. For this they need:
